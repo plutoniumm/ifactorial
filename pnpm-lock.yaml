@@ -15,10 +15,10 @@ specifiers:
   rollup-plugin-livereload: ^2.0.5
   rollup-plugin-svelte: 7.1.0
   rollup-plugin-terser: ^7.0.2
-  svelte: 3.48.0
+  svelte: 3.49.0
   svelte-preprocess: 4.10.7
   svelte-preprocess-markdown: ^2.7.3
-  unplugin-auto-import: 0.8.8
+  unplugin-auto-import: 0.9.0
   vite: 2.9.12
   vite-plugin-replace: 0.1.1
   workered: 1.0.2
@@ -35,16 +35,16 @@ devDependencies:
   '@rollup/plugin-commonjs': 22.0.0_rollup@2.75.7
   '@rollup/plugin-node-resolve': 13.3.0_rollup@2.75.7
   '@sveltejs/adapter-static': 1.0.0-next.34
-  '@sveltejs/kit': 1.0.0-next.354_svelte@3.48.0
+  '@sveltejs/kit': 1.0.0-next.360_svelte@3.49.0+vite@2.9.12
   node-sass: 7.0.1
   rollup: 2.75.7
   rollup-plugin-css-only: 3.1.0_rollup@2.75.7
   rollup-plugin-livereload: 2.0.5
-  rollup-plugin-svelte: 7.1.0_oqvu6r7na5sdokb6fyq7tyqy6i
+  rollup-plugin-svelte: 7.1.0_awkssgmnmfj7lmgm43cnfrf2iq
   rollup-plugin-terser: 7.0.2_rollup@2.75.7
-  svelte: 3.48.0
-  svelte-preprocess: 4.10.7_7na7m37n4dmvcpiduxi3duce4e
-  unplugin-auto-import: 0.8.8_rollup@2.75.7+vite@2.9.12
+  svelte: 3.49.0
+  svelte-preprocess: 4.10.7_ned5zac7pgtzhbhi5iddte43li
+  unplugin-auto-import: 0.9.0_rollup@2.75.7+vite@2.9.12
   vite: 2.9.12
   vite-plugin-replace: 0.1.1_vite@2.9.12
 
@@ -214,27 +214,25 @@ packages:
       tiny-glob: 0.2.9
     dev: true
 
-  /@sveltejs/kit/1.0.0-next.354_svelte@3.48.0:
-    resolution: {integrity: sha512-dTfFT0c3sxztFpiw6H4bQnPd+PtHgEZG6j6ssT9sWLONfzUgWRX0S7H/WoPEjr7u65o2HNazoj8jmEq3ZTwb9g==}
+  /@sveltejs/kit/1.0.0-next.360_svelte@3.49.0+vite@2.9.12:
+    resolution: {integrity: sha512-z1W6oYSmDzYcjlXANkbsb0N0IS/0aDl0huzDGRZWXobis4VmzoqzOyxsczyvxwH6FWxQBXls5wNrtm6drzsr6A==}
     engines: {node: '>=16.7'}
     hasBin: true
     peerDependencies:
       svelte: ^3.44.0
+      vite: ^2.9.10
     dependencies:
-      '@sveltejs/vite-plugin-svelte': 1.0.0-next.49_svelte@3.48.0+vite@2.9.12
+      '@sveltejs/vite-plugin-svelte': 1.0.0-next.49_svelte@3.49.0+vite@2.9.12
       chokidar: 3.5.3
       sade: 1.8.1
-      svelte: 3.48.0
+      svelte: 3.49.0
       vite: 2.9.12
     transitivePeerDependencies:
       - diff-match-patch
-      - less
-      - sass
-      - stylus
       - supports-color
     dev: true
 
-  /@sveltejs/vite-plugin-svelte/1.0.0-next.49_svelte@3.48.0+vite@2.9.12:
+  /@sveltejs/vite-plugin-svelte/1.0.0-next.49_svelte@3.49.0+vite@2.9.12:
     resolution: {integrity: sha512-AKh0Ka8EDgidnxWUs8Hh2iZLZovkETkefO99XxZ4sW4WGJ7VFeBx5kH/NIIGlaNHLcrIvK3CK0HkZwC3Cici0A==}
     engines: {node: ^14.13.1 || >= 16}
     peerDependencies:
@@ -250,8 +248,8 @@ packages:
       deepmerge: 4.2.2
       kleur: 4.1.4
       magic-string: 0.26.2
-      svelte: 3.48.0
-      svelte-hmr: 0.14.12_svelte@3.48.0
+      svelte: 3.49.0
+      svelte-hmr: 0.14.12_svelte@3.49.0
       vite: 2.9.12
     transitivePeerDependencies:
       - supports-color
@@ -2373,7 +2371,7 @@ packages:
       - utf-8-validate
     dev: true
 
-  /rollup-plugin-svelte/7.1.0_oqvu6r7na5sdokb6fyq7tyqy6i:
+  /rollup-plugin-svelte/7.1.0_awkssgmnmfj7lmgm43cnfrf2iq:
     resolution: {integrity: sha512-vopCUq3G+25sKjwF5VilIbiY6KCuMNHP1PFvx2Vr3REBNMDllKHFZN2B9jwwC+MqNc3UPKkjXnceLPEjTjXGXg==}
     engines: {node: '>=10'}
     peerDependencies:
@@ -2383,7 +2381,7 @@ packages:
       require-relative: 0.8.7
       rollup: 2.75.7
       rollup-pluginutils: 2.8.2
-      svelte: 3.48.0
+      svelte: 3.49.0
     dev: true
 
   /rollup-plugin-terser/7.0.2_rollup@2.75.7:
@@ -2721,13 +2719,13 @@ packages:
     resolution: {integrity: sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==}
     engines: {node: '>= 0.4'}
 
-  /svelte-hmr/0.14.12_svelte@3.48.0:
+  /svelte-hmr/0.14.12_svelte@3.49.0:
     resolution: {integrity: sha512-4QSW/VvXuqVcFZ+RhxiR8/newmwOCTlbYIezvkeN6302YFRE8cXy0naamHcjz8Y9Ce3ITTZtrHrIL0AGfyo61w==}
     engines: {node: ^12.20 || ^14.13.1 || >= 16}
     peerDependencies:
       svelte: '>=3.19.0'
     dependencies:
-      svelte: 3.48.0
+      svelte: 3.49.0
     dev: true
 
   /svelte-preprocess-markdown/2.7.3:
@@ -2737,7 +2735,7 @@ packages:
       marked: 1.2.9
     dev: false
 
-  /svelte-preprocess/4.10.7_7na7m37n4dmvcpiduxi3duce4e:
+  /svelte-preprocess/4.10.7_ned5zac7pgtzhbhi5iddte43li:
     resolution: {integrity: sha512-sNPBnqYD6FnmdBrUmBCaqS00RyCsCpj2BG58A1JBswNF7b0OKviwxqVrOL/CKyJrLSClrSeqQv5BXNg2RUbPOw==}
     engines: {node: '>= 9.11.2'}
     requiresBuild: true
@@ -2785,11 +2783,11 @@ packages:
       node-sass: 7.0.1
       sorcery: 0.10.0
       strip-indent: 3.0.0
-      svelte: 3.48.0
+      svelte: 3.49.0
     dev: true
 
-  /svelte/3.48.0:
-    resolution: {integrity: sha512-fN2YRm/bGumvjUpu6yI3BpvZnpIm9I6A7HR4oUNYd7ggYyIwSA/BX7DJ+UXXffLp6XNcUijyLvttbPVCYa/3xQ==}
+  /svelte/3.49.0:
+    resolution: {integrity: sha512-+lmjic1pApJWDfPCpUUTc1m8azDqYCG1JN9YEngrx/hUyIcFJo6VZhj0A1Ai0wqoHcEIuQy+e9tk+4uDgdtsFA==}
     engines: {node: '>= 8'}
     dev: true
 
@@ -2890,8 +2888,8 @@ packages:
       mime-types: 2.1.35
     dev: false
 
-  /unimport/0.2.9_rollup@2.75.7+vite@2.9.12:
-    resolution: {integrity: sha512-5SLmZZL2rwaNOQa/yTGaG0QI0meRhb6MDdIlS9s1uHPSYO6Gfzr7ugl5Rf35/CJioW6wYiNJsN9dru5JMzaD8w==}
+  /unimport/0.3.0_rollup@2.75.7+vite@2.9.12:
+    resolution: {integrity: sha512-RxvfvKBY+CyBmIuYSuBeosSiudgcVakdhVofy5mO5sJ3purQRc5yjLw0Lir7MKHnqe6XT1++8flgAvpxu1UkqQ==}
     dependencies:
       '@rollup/pluginutils': 4.2.1
       escape-string-regexp: 5.0.0
@@ -2927,8 +2925,8 @@ packages:
     engines: {node: '>= 0.8'}
     dev: false
 
-  /unplugin-auto-import/0.8.8_rollup@2.75.7+vite@2.9.12:
-    resolution: {integrity: sha512-cVZ79zMR1v4VCZ9emFTUnltmazCc2B4hObyVrxJdlgJ2sK8qub6JfjFt38rCF6MVEddkHiWCU6wZR1qbdqe+ig==}
+  /unplugin-auto-import/0.9.0_rollup@2.75.7+vite@2.9.12:
+    resolution: {integrity: sha512-6h32xuwfpXQwXN9lAZtEDbb8rNGdBn/zg/H8HoXHtnm63t67zL2NDLxb0S3rJugKrQdhHhxaLgckN3gB36TnXw==}
     engines: {node: '>=14'}
     peerDependencies:
       '@vueuse/core': '*'
@@ -2940,7 +2938,7 @@ packages:
       '@rollup/pluginutils': 4.2.1
       local-pkg: 0.4.1
       magic-string: 0.26.2
-      unimport: 0.2.9_rollup@2.75.7+vite@2.9.12
+      unimport: 0.3.0_rollup@2.75.7+vite@2.9.12
       unplugin: 0.7.0_rollup@2.75.7+vite@2.9.12
     transitivePeerDependencies:
       - esbuild
