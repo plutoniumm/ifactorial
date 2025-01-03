@@ -1,7 +1,7 @@
 <script>
-  import { img } from "@components/openlib.js";
-
   export let book;
+
+  const img = (cover) => `https://covers.openlibrary.org/b/id/${cover}-M.jpg`;
   const { OLID, author, name, cover, index } = book;
 </script>
 

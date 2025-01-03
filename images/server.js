@@ -6,61 +6,59 @@
 5. Put R1 back into src/routes/books
 */
 
-
-
 import { appendFileSync } from "fs";
 
 const ids = Object.freeze( [
-    "OL8898482M",
-    "OL32091753M",
-    "OL28370993M",
-    "OL37047220M",
-    "OL28331857M",
-    "OL21594367M",
-    "OL24391629M",
-    "OL28130776M",
-    "OL35678174M",
-    "OL8971647M",
-    "OL30125176M",
-    "OL26554445M",
-    "OL3024629M",
-    "OL35693668M",
-    "OL25082830M",
-    "OL27322193M",
-    "OL23077711M",
-    "OL32760762M",
-    "OL27193250M",
-    "OL32445039M",
-    "OL4554174M",
-    "OL28307932M",
-    "OL25440550M",
-    "OL32289956M",
-    "OL33419549M",
-    "OL24243313W",
-    "OL27404766M",
-    "OL27366070M",
-    "OL35354582M",
-    "OL27206755M",
-    "OL36270783M",
-    "OL25538028M",
-    "OL7590438M",
-    "OL28198631M",
-    "OL31438584M",
-    "OL36583747M",
-    "OL36618901M",
-    "OL35038410M",
-    "OL4569826W",
-    "OL26374794M",
-    "OL30677089M",
-    "OL22661787W",
-    "OL2040840M",
-    "OL32835319M",
-    "OL33055982M",
-    "OL32196580M",
-    "OL27449843M",
-    "OL36665710M",
-    "OL26327044M",
-    "OL25648567M",
+    "OL83715W",
+    "OL8305185W",
+    "OL8062007W",
+    "OL7927002M",
+    "OL7318016M",
+    "OL54610936M",
+    "OL52209904M",
+    "OL51149627M",
+    "OL46535432M",
+    "OL4288870W",
+    "OL36675855M",
+    "OL35996435M",
+    "OL34534882W",
+    "OL33857307M",
+    "OL32754021M",
+    "OL32387462M",
+    "OL30809615W",
+    "OL29506523M",
+    "OL28635528M",
+    "OL28623980W",
+    "OL28321311M",
+    "OL27846773W",
+    "OL27810387W",
+    "OL278022W",
+    "OL27343095M",
+    "OL27275984W",
+    "OL27157451M",
+    "OL25807247W",
+    "OL25328015W",
+    "OL24340933W",
+    "OL24207868M",
+    "OL24149728W",
+    "OL22089096W",
+    "OL21209060W",
+    "OL20843696W",
+    "OL20787306W",
+    "OL20537401W",
+    "OL20334242W",
+    "OL20153626W",
+    "OL20046006W",
+    "OL1968368W",
+    "OL19663289W",
+    "OL18821160W",
+    "OL18201749W",
+    "OL17715915W",
+    "OL17551552W",
+    "OL1751051W",
+    "OL17043758W",
+    "OL16568840W",
+    "OL15540668W"
 ] );
 
 const openlib = ( id ) => ( `https://openlibrary.org/works/${ id }.json` )
@@ -76,18 +74,21 @@ async function* getData () {
 }; const gen = getData();
 
 const map = ( i, data ) => {
+    if ( !data ) {
+        return ( { index: i, id: ids[ i ], title: null, cover: null } )
+    };
+
     const cover = data.covers ? data.covers[ 0 ] : null;
     return {
         index: i,
         id: ids[ i ],
-        title: data.title.split( "[" )[ 0 ].trim(),
-        cover: cover > 100 ? cover : null,
-        pubDate: +new Date( data.publish_date )
+        title: data?.title?.split( "[" )[ 0 ].trim(),
+        cover: cover > 100 ? cover : null
     };
 };
 
 
-appendFileSync( "./R2Imgs.csv", `OLID;title;coverId\n` );
+appendFileSync( "./R3Imgs.csv", `OLID;title;coverId\n` );
 ids.slice( 0, 101 ).forEach( async ( e, i ) => {
     const data = await gen.next();
     const c = map( i, data.value );
@@ -95,5 +96,5 @@ ids.slice( 0, 101 ).forEach( async ( e, i ) => {
 
     if ( c.cover === null ) appendFileSync( "./errors.txt", c.id + '\n' );
     const logged = `${ c.id };${ c.title };${ c.cover }\n`;
-    appendFileSync( "./R2Imgs.csv", logged );
+    appendFileSync( "./R3Imgs.csv", logged );
 } );

@@ -1,51 +1,52 @@
-OLID,author,name,cover
-OL34534882W,Paul Kalanithi,When Breath becomes Air
-OL20537401W,Lynne Murphy,The Prodigal Tongue
-OL20153626W,David Graeber,Bullshit Jobs
-OL20843696W,James Comey,A Higher Loyalty
-OL27846773W,Siddhartha Mukherjee,The Song of the Cell
-OL20046006W,Michael Lewis,The Undoing Project
-OL24149728W,Eliot Higgins,We are Bellingcat
-OL25328015W,Sebastian Mallaby,The Power Law
-OL15540668W,Siddhartha Mukherjee,The Emperor of all Maladies
-OL20787306W,Gregory Zuckerman,The Man Who Solved the Market
-OL33857307M,"Adam Rutherford, Hannah Fry",Rutherford & Fry's Complete Guide to Absolutely Everything
-OL24340933W,Steven Pinker,Rationality
-OL36675855M,Nathan Lents,Human Errors
-OL18201749W,Shoshana Zuboff,The Age of Surveillance Capitalism
-OL22089096W,Nicolas Nissim Taleb,Skin in the Game
-OL83715W,Dalai Lama,Freedom in Exile
-OL8062007W,Burton Malkiel,A Random Walk Down Wall Street
-OL1968368W,Robert Greene,48 Rules of Power
-OL16568840W,Jonathan Haidt,The Righteous Mind
-OL28623980W,Ginni Rometty,Good Power
-OL19663289W,Nick Lane,The Vital Question
-OL27275984W,Randall Munroe,What If? 2
-OL30809615W,Chelsea Manning,Readme.txt
-OL32387462M,Bjorn Lomborg,False Alarm
-OL21209060W,James Scott,Rampage
-OL27810387W,Bogdanich & Forsythe,When McKinsey comes to Town
-OL20334242W,Zohar & Mishal,Mossad
-OL8305185W,Bjorn Lomborg,The Skeptical Environmentalist
-OL1751051W,Sokal & Bricmont,Fashionable Nonsense
-OL25807247W,Seth Stephens-Davidowitz,Don’t Trust Your Gut
-OL27343095M,Raghuram Rajan,The Third Pillar
-OL17551552W,Hayao Miyazaki,Turning Point
-OL4288870W,Walter Isaacson,Einstein: His Life and Universe
-OL17043758W,Hussain Zaidi,Dongri to Dubai
-OL18821160W,Molly Bloom,Molly’s Game
-OL17715915W,Adam Rutherford,A Brief History of Everyone Who Ever Lived
-OL278022W,Dubner and Levitt,Freakonomics
-OL28321311M,Jocko Willink,Extreme Ownership
-OL24207868M,Immanuel Kant,Metaphysics of Morals
-OL29506523M,Friedrich Nietzsche,God is Dead. God Remains Dead. And We Have Killed Him
-OL35996435M,Harish Bhat,#Tatastories
-OL7927002M,Gene Kranz,Failure Is Not an Option
-OL32754021M,Frans de Waal,Are We Smart Enough to Know How Smart Animals Are
-OL46535432M,Matthew Black,Operation Underworld
-OL51149627M,Jonn Elledge,A History of the World in 47 Borders
-OL7318016M,Roger Penrose,The Road to Reality
-OL54610936M,Plato,Republic
-OL27157451M,Serhii Plokhy,The Last Empire
-OL28635528M,Benjamin Graham,The Intelligent Investor
-OL52209904M,Malcom Gladwell,Revenge of the Tipping Point
+OLID,author,name,cover,cover
+OL15540668W,Siddhartha Mukherjee,The Emperor of all Maladies,0,11320203
+OL16568840W,Jonathan Haidt,The Righteous Mind,0,7256782
+OL17043758W,Hussain Zaidi,Dongri to Dubai,0,7286147
+OL17095301W,Randall Munroe,What If? 2,0,12598134
+OL1751051W,Sokal & Bricmont,Fashionable Nonsense,0,175297
+OL17551552W,Hayao Miyazaki,Turning Point,0,7804729
+OL17715915W,Adam Rutherford,A Brief History of Everyone Who Ever Lived,0,9155814
+OL18201749W,Shoshana Zuboff,The Age of Surveillance Capitalism,0,8353262
+OL18821160W,Molly Bloom,Molly’s Game,0,8367980
+OL19663289W,Nick Lane,The Vital Question,0,10014850
+OL1968368W,Robert Greene,48 Rules of Power,0,6424160
+OL20046006W,Michael Lewis,The Undoing Project,0,8574667
+OL20153626W,David Graeber,Bullshit Jobs,0,8798647
+OL20334242W,Zohar & Mishal,Mossad,0,8997685
+OL20537401W,Lynne Murphy,The Prodigal Tongue,0,9185519
+OL20787306W,Gregory Zuckerman,The Man Who Solved the Market,0,10079077
+OL20843696W,James Comey,A Higher Loyalty,0,10152891
+OL21209060W,James Scott,Rampage,0,0
+OL22089096W,Nicolas Nissim Taleb,Skin in the Game,0,10439622
+OL24149728W,Eliot Higgins,We are Bellingcat,0,10548486
+OL24207868M,Immanuel Kant,Metaphysics of Morals,0,6503264
+OL24340933W,Steven Pinker,Rationality,0,10864130
+OL25328015W,Sebastian Mallaby,The Power Law,0,12855991
+OL25807247W,Seth Stephens-Davidowitz,Don't Trust Your Gut,0,14695616
+OL27157451M,Serhii Plokhy,The Last Empire,0,12607562
+OL27343095M,Raghuram Rajan,The Third Pillar,0,8807189
+OL278022W,Dubner and Levitt,Freakonomics,0,11172914
+OL27810387W,Bogdanich & Forsythe,When McKinsey comes to Town,0,12975794
+OL27846773W,Siddhartha Mukherjee,The Song of the Cell,0,12982914
+OL28321311M,Jocko Willink,Extreme Ownership,0,10250457
+OL28623980W,Ginni Rometty,Good Power,0,13326892
+OL28635528M,Benjamin Graham,The Intelligent Investor,0,10328222
+OL29506523M,Friedrich Nietzsche,God is Dead. God Remains Dead. And We Have Killed Him,0,14149542
+OL30809615W,Chelsea Manning,Readme.txt,0,13759869
+OL32387462M,Bjorn Lomborg,False Alarm,0,11051143
+OL32754021M,Frans de Waal,Are We Smart Enough to Know How Smart Animals Are,0,11380116
+OL33857307M,"Adam Rutherford, Hannah Fry",Rutherford & Fry's Complete Guide to Absolutely Everything,0,12603133
+OL34534882W,Paul Kalanithi,When Breath becomes Air,0,13338248
+OL35996435M,Harish Bhat,#Tatastories,0,0
+OL36675855M,Nathan Lents,Human Errors,0,12563206
+OL4288870W,Walter Isaacson,Einstein: His Life and Universe,0,474440
+OL46535432M,Matthew Black,Operation Underworld,0,13232778
+OL51149627M,Jonn Elledge,A History of the World in 47 Borders,0,0
+OL52209904M,Malcom Gladwell,Revenge of the Tipping Point,0,14829976
+OL54610936M,Plato,Republic,0,0
+OL7318016M,Roger Penrose,The Road to Reality,0,74512
+OL7927002M,Gene Kranz,Failure Is Not an Option,0,471811
+OL8062007W,Burton Malkiel,A Random Walk Down Wall Street,0,249923
+OL8305185W,Bjorn Lomborg,The Skeptical Environmentalist,0,328655
+OL83715W,Dalai Lama,Freedom in Exile,0,42787
+OLID,0,0,0,coverId
