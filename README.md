@@ -6,3 +6,6 @@
 
 ## What is this?
 I read some books. People like some of them. So this is a list of books I read year on year. Check it out [Here](https://books.manav.ch) for it.
+
+## License
+MIT, go wild.

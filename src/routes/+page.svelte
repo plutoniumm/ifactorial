@@ -1,55 +1,68 @@
 <script>
-	import { START_YR } from "./data/conf";
-
+	import Mondrian from "../components/Mondrian.svelte";
 	export let data = [];
 
-	const files = data.files.map((e) => e.replace(".csv", "").replace("R", ""));
+	const files = data.files.map((e) => e.replace(".csv", ""));
 </script>
 
-<section>
-	<h3>Reading List by Year</h3>
-	<br />
-	<div class="f">
-		{#each files as round, index}
-			<a class="rpm-10 f-col" href={"/R" + round} style="background: #fff;">
-				<div class="p20 f-col j-ct fw1 year">
-					{START_YR + index}
-				</div>
-				<div class="tc name fw4 p5">Round {index + 1}</div>
-			</a>
-		{/each}
-	</div>
-	<ul>
-		<li>
-			I am considering making a global search by author or something like that.
-		</li>
-		<li>Im gonna stop writing descriptions since 2023, because... internet</li>
-	</ul>
+<section class="f fw j-ar">
+	{#each files as round, index}
+		<a class="rpm-10 d-b p-rel f-col rx20" href={round}>
+			<Mondrian seed={index} height={150} width={300} />
+			<div class="p-abs f-col j-ct fw7 year">
+				{round}
+			</div>
+		</a>
+	{/each}
 </section>
 
 <style lang="scss">
+	:global(:root) {
+		--color-text-muted: #888;
+		--color-surface: #eee;
+		--elevated-D: #ccc;
+		--elevated-L: #fff;
+		--hover-D: #ddd;
+		--hover-L: #eee;
+		--inset-D: rgba(197, 197, 197, 0.55);
+		--inset-L: rgba(255, 255, 255, 0.65);
+	}
+
 	.year {
-		color: #888;
-		width: calc(100% - 40px);
-		align-items: center;
-		font-size: 4rem;
+		color: #222;
+		font-size: 3rem;
+		bottom: 7px;
+		left: 17px;
+
+		text-shadow:
+			0 0 20px #888a,
+			0 0 30px #888;
 	}
-	.name {
-		height: calc(10px + 1em);
-	}
-	li {
-		line-height: 1.15em;
-		padding: 7px;
-		font-size: 1.12em;
-	}
+
 	a {
 		width: 300px;
 		height: 150px;
-		display: block;
-		border: 1px solid transparent;
-		transition: all 0.1s ease;
-		&:hover {
-			border: 1px solid var(--theme);
-		}
+		background: var(--color-surface);
+		transition: all 0.2s;
+		box-shadow:
+			6px 6px 12px var(--elevated-D),
+			-6px -6px 12px var(--elevated-L);
+	}
+
+	a:hover {
+		box-shadow:
+			4px 4px 10px var(--hover-D),
+			-4px -4px 10px var(--hover-L),
+			inset 2px 2px 6px var(--inset-D),
+			inset -2px -2px 6px var(--inset-L);
+	}
+
+	a:focus,
+	a:active {
+		box-shadow:
+			0px 0px 0px var(--elevated-D),
+			0px 0px 0px var(--elevated-L),
+			inset 4px 4px 12px var(--elevated-D),
+			inset -4px -4px 12px var(--elevated-L);
 	}
 </style>

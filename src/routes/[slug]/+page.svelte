@@ -1,8 +1,6 @@
 <script>
     import Book from "./book.svelte";
     import Fuse from "fuse.js";
-    import { START_YR } from "../data/conf";
-
     export let data;
 
     const options = {
@@ -16,21 +14,17 @@
 
     let search = "";
 
-    const round = data.meta.index;
+    const round = data.index;
 </script>
 
 <title>Round {round} | i!</title>
 <meta name="title" content="Round {round}" />
-<meta
-    name="description"
-    content={`List of readings in the year ${START_YR + round}`}
-/>
+<meta name="description" content={`List of readings in the year ${round}`} />
 
 <a href="#top" class="rx10 m5 p-fix fw7"> &uarr; </a>
-<h1 id="top" class="tc w-100">Round {round}</h1>
 <input
     type="text"
-    class="rx10 p10 m5"
+    class="rx10 p10 m20"
     bind:value={search}
     placeholder="Search by Book/Auth..."
 />
@@ -58,9 +52,21 @@
         padding: 0 15px 7px 15px;
         z-index: 33;
     }
+
     input {
-        font-size: 1.1rem;
-        background: #fff4;
-        width: calc(100% - 20px);
+        width: calc(100% - 60px);
+        background: #e8e8e8;
+        box-shadow:
+            5px 5px 17px #c8c8c8,
+            -5px -5px 17px #ffffff;
+
+        transition: all 0.2s;
+    }
+
+    input:focus {
+        background: #e8e8e8;
+        box-shadow:
+            inset 5px 5px 17px #c8c8c8,
+            inset -5px -5px 17px #ffffff;
     }
 </style>

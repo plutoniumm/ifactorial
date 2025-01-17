@@ -1,0 +1,101 @@
+index,author,notes,isbn,name
+1,Neil DeGrasse Tyson,,9781324003311,Letters from an Astrophysicist
+2,Neil DeGrasse Tyson,,9780393609394,Astrophysics for People in a Hurry
+3,"Hector Garcia, Francesc Miralles",,9780143130727,Ikigai
+4,"Neil DeGrasse Tyson, Avis Lang",*,9781984833983,Accessory to War
+5,Robert L Picconi,,9780739489031,Einstein for Everyone
+6,Jordan Peterson,,9780141988511,12 Rules for Life: An Antidote to Chaos
+7,Nicollo Machiavelli,,9781074139650,The Prince
+8,Bill Gates,,9780385546140,How to Avoid a Climate Disaster
+9,Hans Rosling,,9781250123824,Factfullness
+10,Walter Isaacson,,9781982115876,The Code Breaker
+11,Fyodor Dostoyevsky,,9781510766709,Crime and Punishment
+12,Nassim Taleb,,9780812979688,Anti-fragile
+13,Matt Parker,,9780593084694,Humble Pi
+14,George Orwell,*,9781785996313,1984
+15,Cathy O’Neil,,9780241296813,Weapons of Math Destruction
+16,James Clear,,9781847941831,Atomic Habits
+17,Tim Harford,,9780349143866,How to Make the World Add Up
+18,Leonard Susskind,,9780141976228,Theoretical Minimum: Classical Mech
+19,Bill Bryson,,9780307885159,A Short History of Nearly Everything
+20,Adam Smith,,9781404309982,The Wealth of Nations
+21,George Orwell,,9781943138425,Animal Farm
+22,Elizabeth Kolbert,,9781250062185,The Sixth Extinction
+23,Marry Shelly,,9789176370728,Frankenstein
+24,Aldous Huxley,,9780062001719,Brave New World
+25,"Jonathan Haidt, Gred Luianoff",,9780735224919,The Coddling of the American Mind
+26,Yeonmi Park,,9781611764666,In Order to Live
+27,Daniel Kahneman,*,9780385676533,Thinking Fast and Slow
+28,Richard Dawkins,,9780552773317,The God Delusion
+29,Lao Tau,,9781787247659,Tao Te Ching
+30,Angela Duckworth,,9781501111105,Grit
+31,"Dawkins, Bennett, Harris, Hitchens",,9780525511953,The Four Horsemen
+32,Reed Hastings,,9781984877864,No Rules Rules
+33,Miyamoto Musashi,,9781611806403,The Book of Five Rings
+34,Malcom Gladwell,,9780316024976,Outliers
+35,Victor Frankl,,9780807067994,Man’s Search for Meaning
+36,Charles Darwin,,9781402789595,On The Origin of Species
+37,Friedrich Nitzsche,,048629868X,Beyond Good and Evil
+38,John Brooks,,0575003499,Business Adventures
+39,Noam Chomsky,,9780375714498,Manufacturing Consent
+40,Stephen Hawking,,9780553380163,Brief History of Time
+41,Aleksandr Solzhenitsyn,,0060007761,The Gulag Archipelago
+42,Jon Ronson,,9781594488016,The Psychopath Test
+43,Stephen Hawking,,0553095234,Black Holes and Baby Universes
+44,Arthur Schopenhauer,,9781602063518,The Art of Being Right
+45,Stephen Hawking,,9780553819229,The Grand Design
+46,Bertrand Russell,,9788130700182,Education
+47,Gad Saad,,9781621579595,The Parasitic Mind
+48,Barack Obama,,9781524763169,A Promised Land
+49,Christopher Browning,,0060190132,Ordinary Men
+50,Robert Iger,,9780593170984,The Ride of a Lifetime
+51,Jordan Peterson,,9780241407622,12 More Rules for Life: Beyond Order
+52,Richard Feynman,,9780738206509,Six Not So Easy Pieces
+53,Nicholas Carr,,9780393339758,The Shallows
+54,Yuval Noah Harari,,9780062316097,Sapiens
+55,Yuval Noah Harari,,9780771038686,Homo Deus
+56,Richard Feynman,,9780553347845,What do you care what other people think?
+57,Richard Feynman,,0553346687,Surely You’re Joking Mr. Feynman
+58,Titania McGrath,,9788491819707,Woke
+59,Robert Kiyosaki,,9781612680019,Rich Dad Poor Dad
+60,Joe Navarro,,9780061438295,What Every Body is Saying?
+61,David Attenborough,,9780316057455,Life on Earth
+62,Chriss Voss,,9780062407801,Never Split the Difference
+63,Chiara Marletto,,9780241310946,The Science of Can and Can’t
+64,Richard Rhodes,*,9780684813783,The Making of the Atomic Bomb
+65,Hannah Arendt,,0143039881,Eichmann in Jerusalem
+66,Malcom Gladwell,,9780241535868,The Bomber Mafia
+67,Malcom Gladwell,,9780316299220,Talking to Strangers
+68,Walter Isaacson,,9781594138850,The Innovators
+69,Matthew Walker,,9781501144325,Why We Sleep
+70,Vaclav Smil,,9780241454411,Numbers Don’t Lie
+71,Abhijit Banerjee & Esther Duflo,,9780718193669,Poor Economics
+72,David Epstien,,9780735214507,Range
+73,Abhijit Banerjee & Esther Duflo,,9781549128851,Good Economics for Bad Times
+74,Steven Pinker,,9780393045352,How The Mind Works
+75,Steve Strogatz,,9781328879981,Infinite Powers
+76,Sun Tzu,,9781403774644,The Art of War
+77,"Hector Garcia, Francesc Miralles",,9781529401295,Ichigo Ichie
+78,Jordan Peterson,,9780415922227,Maps of Meaning
+79,Kevin Many et al,,9780132755108,Making the World Work Better
+80,Michael Pollan,,9780593296905,This is Your Mind on Plants
+81,Richard Feynman,,9780141021133,Don’t You Have Time to Think?
+82,Morgan Housel,,9780857197689,Psychology of Money
+83,Brian Christian & Tom Griffiths,*,9780007547999,Algorithms to Live By
+84,Herbert Bix,,9780060931308,Hirohito
+85,Richard Ayoade,,9780571316533,Ayoade on Ayoade
+86,Meik Wiking,,9781470828363,The Little Book of Hygge
+87,Meik Wiking,,9781538499368,The Little Book of Lykke
+88,Joseph Heller,,9781451621174,Catch-22
+89,Richard Feynman,,9780738206509,Six Easy Pieces
+90,Herman Hesse,,9789586392938,Siddhartha
+91,Stephen Hawking,,1893224546,The Theory of Everything
+92,Joe Navarro,,9780061969867,Louder than Words
+93,Parag Khanna,,9781474604253,Connectography
+94,Hayao Miyazaki,,9781421561042,Starting Point
+95,Andrew McAfee,,9781982103576,More From Less
+96,Matt Richtel,,9780062698490,An Elegant Defense
+97,Anthony Beevor,,9780141048130,D-Day
+98,"Thomas Gryta, Ted Mann",,9780358567059,Lights Out
+99,David Hoffman,,9781848312302,Dead Hand
+100,G H Hardy,,9781107604636,A Mathematicians Apology

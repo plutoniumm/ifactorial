@@ -35,8 +35,7 @@
 			z-index: -20;
 			-webkit-font-smoothing: antialiased;
 			color: rgb(29, 29, 31);
-			font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue",
-				Helvetica, Arial, sans-serif;
+			font-family: "Courier New", Courier, monospace;
 			font-style: normal;
 			font-synthesis: none;
 			font-weight: 400;
@@ -44,16 +43,13 @@
 			background: #e5e5e7;
 		}
 
-		body::before {
-			z-index: -10;
-			background: url(/noise.webp);
-			background-repeat: repeat;
-			width: 100%;
-			height: 100%;
-			position: fixed;
-			top: 0;
-			left: 0;
-			content: "";
+		input,
+		textarea,
+		select,
+		button {
+			font-family: inherit;
+			font-size: inherit;
+			line-height: inherit;
 		}
 
 		main {
