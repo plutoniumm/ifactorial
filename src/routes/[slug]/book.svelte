@@ -1,28 +1,17 @@
 <script>
   export let book;
-  const { author, name, flags, isbn, notes } = book;
+  const { author, name, isbn, notes } = book;
 
   const cover = `https://covers.openlibrary.org/b/isbn/${isbn}`;
-
-  if (notes) {
-    console.log(`Notes for ${name}: ${notes}`);
-  }
 </script>
 
 <div
   id={isbn}
-  class="book t5 d-b f rx10 p5 m5 p-rel"
-  class:t5={flags?.tops || false}
+  class="book t5 d-b f rx20 p5 m5 p-rel"
+  class:t5={notes?.includes("*") || false}
 >
   <a href={`https://www.amazon.com/s?k=${name} ${author}`}>
-    <img
-      class="rx10"
-      src={`${cover}-M.jpg`}
-      srcset={`${cover}-S.jpg 100w, ${cover}-M.jpg 300w, ${cover}-L.jpg 600w`}
-      sizes="(max-width: 600px) 100px, (max-width: 900px) 150px, 200px"
-      loading="lazy"
-      alt={name}
-    />
+    <img class="rx10" src={`${cover}-M.jpg`} loading="lazy" alt={name} />
   </a>
 
   <a href={`#${isbn}`} class="w-100 f-col j-ar">
@@ -35,7 +24,11 @@
 
 <style lang="scss">
   .t5 {
-    background-color: #fd04;
+    background: #fd04;
+    box-shadow:
+      5px 5px 5px #bbb,
+      -5px -5px 5px #fff;
+
     &::after {
       content: "★";
       position: absolute;

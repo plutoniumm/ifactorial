@@ -7,7 +7,7 @@
 
 <section class="f fw j-ar">
 	{#each files as round, index}
-		<a class="rpm-10 d-b p-rel f-col rx20" href={round}>
+		<a class="rpm-10 d-b p-rel ptr f-col rx20" href={round}>
 			<Mondrian seed={index} height={150} width={300} />
 			<div class="p-abs f-col j-ct fw7 year">
 				{round}
@@ -28,28 +28,20 @@
 		--inset-L: rgba(255, 255, 255, 0.65);
 	}
 
-	.year {
-		color: #222;
-		font-size: 3rem;
-		bottom: 7px;
-		left: 17px;
-
-		text-shadow:
-			0 0 20px #888a,
-			0 0 30px #888;
-	}
-
 	a {
 		width: 300px;
 		height: 150px;
 		background: var(--color-surface);
-		transition: all 0.2s;
+		transition: all 0.2s ease-in-out;
+
+		filter: saturate(1);
 		box-shadow:
 			6px 6px 12px var(--elevated-D),
 			-6px -6px 12px var(--elevated-L);
 	}
 
 	a:hover {
+		filter: saturate(0.8);
 		box-shadow:
 			4px 4px 10px var(--hover-D),
 			-4px -4px 10px var(--hover-L),
@@ -64,5 +56,16 @@
 			0px 0px 0px var(--elevated-L),
 			inset 4px 4px 12px var(--elevated-D),
 			inset -4px -4px 12px var(--elevated-L);
+	}
+
+	.year {
+		color: #222;
+		font-size: 3rem;
+		bottom: 7px;
+		left: 17px;
+
+		text-shadow:
+			0 0 20px #888a,
+			0 0 30px #888;
 	}
 </style>
