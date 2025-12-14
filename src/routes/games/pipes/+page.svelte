@@ -105,7 +105,7 @@
       {@const col = hsl(node.tint)}
 
       <div
-        class="tile f al-ct j-ct ptr p-rel rx10"
+        class="tile f al-ct j-ct ptr p-rel rx50"
         class:end={node.val > 0}
         class:pressed={node.tint}
         on:mousedown={() => down(node)}
@@ -139,17 +139,6 @@
 </div>
 
 <style>
-  :global(:root) {
-    --color-text-muted: #888;
-    --color-surface: #eee;
-    --elevated-D: #ccc;
-    --elevated-L: #fff;
-    --hover-D: #ddd;
-    --hover-L: #eee;
-    --inset-D: rgba(197, 197, 197, 0.55);
-    --inset-L: rgba(255, 255, 255, 0.65);
-  }
-
   .box {
     user-select: none;
     align-items: stretch;
@@ -233,5 +222,10 @@
     height: 70%;
     font: 28px Arial Black;
     opacity: 0.66;
+  }
+
+  .rx50 {
+    border-radius: 50px;
+    overflow: hidden;
   }
 </style>

@@ -11,7 +11,7 @@
 
 <div class="container">
   <div class="heading">
-    <h1 class="title">2048</h1>
+    <h1 class="title">2<sup>17</sup></h1>
 
     <button id="undo-button">
       <svg

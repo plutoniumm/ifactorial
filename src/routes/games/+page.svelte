@@ -1,21 +1,27 @@
 <script lang="ts">
+  import Card from "@components/card.svelte";
+  import Malevich from "@components/malevich.svelte";
+
   let games: string[][] = [
-    // url, name
-    ["/games/flow", "Numberlink"],
+    ["/games/pipes", "Pipes"],
+    ["/games/2048", "2048"],
   ];
 </script>
 
 <section>
-  <div>
-    Now that you've gone out of your way to find games on a website dedicated to
-    books, might as well play some.
+  <div class="mx-a" style="font-size: 24px;max-width: min(600px, 90vw);">
+    Now that you've gone out of your way to find games on a page about books,
+    might as well play some.
   </div>
+  <br />
 
-  <ul>
+  <section class="f fw j-ar">
     {#each games as [url, name]}
-      <li><a href={url}>{name}</a></li>
+      <Card {url} {name}>
+        <Malevich seed={name} height={150} width={300} />
+      </Card>
     {/each}
-  </ul>
+  </section>
 </section>
 
 <style>
