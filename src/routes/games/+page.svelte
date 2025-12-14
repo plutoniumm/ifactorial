@@ -5,6 +5,7 @@
   let games: string[][] = [
     ["/games/pipes", "Pipes"],
     ["/games/2048", "2048"],
+    ["/games/tetris", "Tetris"],
   ];
 </script>
 
