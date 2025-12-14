@@ -3,7 +3,6 @@
   import { make, link } from "./index";
   import { onMount } from "svelte";
   import { hsl } from "./utils";
-  import { page } from "$app/stores";
 
   let scale = 12;
   let grid = [];
@@ -14,7 +13,7 @@
 
   let WALL = 600;
 
-  $: scale = Number($page.url.searchParams.get("scale") ?? 12);
+  $: scale = 12;
 
   function build() {
     win = false;
@@ -79,6 +78,10 @@
   }
 
   onMount(() => {
+    let params = new URLSearchParams(window.location.search);
+    let s = Number(params.get("scale") ?? 12);
+    if (s >= 5 && s <= 15) scale = s;
+
     build();
     window.addEventListener("mouseup", up);
 

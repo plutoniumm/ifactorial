@@ -23,6 +23,7 @@
 
 <a href="#top" class="rx10 m5 p-fix fw7"> &uarr; </a>
 <input
+    id="top"
     type="text"
     class="rx10 p10 m20"
     bind:value={search}
