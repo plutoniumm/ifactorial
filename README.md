@@ -1,6 +1,5 @@
 <div align="center">
-<h2>ifactorial</h2>
-<img src="./static/icons/if.svg" alt="amos" width="150px" height="150px"/><br/>
+<img src="./static/icons/wide.svg" alt="amos" width="256px" height="144px"/><br/>
 <p>The Bookmaker <br/> A badly made Excel Sheet<p>
 </div>
 
@@ -9,3 +8,5 @@ I read some books. People like some of them. So this is a list of books I read y
 
 ## License
 MIT, go wild.
+
+<!-- 320 180 -->
