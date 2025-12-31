@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<link rel="icon" type="svg+xml" href="/icons/if.svg" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	<title>Plutoniumm's Readings</title>
+	<meta name="theme-color" content="#2af" />
+	<meta name="description" content="I read sometimes, this is just a list of those sometimes" />
+
+	<meta property="og:title" content="Plutoniumm's Readings" />
+	<meta property="og:description" content="I read sometimes, this is just a list of those sometimes" />
+	<meta property="og:image" content="/icons/if.svg" />
+	<meta property="og:url" content="https://manav.ch" />
+
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@plutoniumm" />
+	<meta name="twitter:title" content="Plutoniumm's Readings" />
+	<meta name="twitter:description" content="I read sometimes, this is just a list of those sometimes" />
+	<meta name="twitter:image" content="/icons/if.svg" />
+
+	<link rel="stylesheet" href="https://manav.ch/atomic.css">
+
+	<style>
+		:root {
+			--theme-u: #4cf;
+			--theme: #2af;
+			--theme-d: #08f;
+			--theme-gradient: linear-gradient(155deg, #2af, #6ef);
+			--color-text-muted: #888;
+			--color-surface: #eee;
+			--elevated-D: #ccc;
+			--elevated-L: #fff;
+			--hover-D: #ddd;
+			--hover-L: #eee;
+			--inset-D: rgba(197, 197, 197, 0.55);
+			--inset-L: rgba(255, 255, 255, 0.65);
+		}
+
+		body {
+			z-index: -20;
+			-webkit-font-smoothing: antialiased;
+			color: rgb(29, 29, 31);
+			font-family: "Courier New", Courier, monospace;
+			font-style: normal;
+			font-synthesis: none;
+			font-weight: 400;
+			letter-spacing: 0.23px;
+			background: #e5e5e7;
+		}
+
+		input,
+		textarea,
+		select,
+		button {
+			font-family: inherit;
+			font-size: inherit;
+			line-height: inherit;
+		}
+
+		main {
+			z-index: 1;
+		}
+	</style>
+
+	
+		<link href="../_app/immutable/assets/0.4467faff.css" rel="stylesheet">
+		<link href="../_app/immutable/assets/5.96d17629.css" rel="stylesheet">
+		<link rel="modulepreload" href="../_app/immutable/entry/start.622d1eea.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/index.33b5794c.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/singletons.d368f2f4.js">
+		<link rel="modulepreload" href="../_app/immutable/entry/app.bc1f3c3a.js">
+		<link rel="modulepreload" href="../_app/immutable/nodes/0.93f1a117.js">
+		<link rel="modulepreload" href="../_app/immutable/nodes/5.40c363e4.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/meta.168d2e6e.js"><title>Bookmaker | Flow Game</title><!-- HEAD_svelte-12b2vgd_START --><meta name="description" content="Flow based on numberlink"><meta name="author" content="plutoniumm"><meta property="og:title" content="Bookmaker | Flow Game"><meta property="og:description" content="Flow based on numberlink"><meta property="og:type" content="website"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Bookmaker | Flow Game"><meta name="twitter:description" content="Flow based on numberlink"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta name="mobile-web-app-capable" content="yes"><meta name="HandheldFriendly" content="True"><meta name="MobileOptimized" content="320"><meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0, maximum-scale=1, user-scalable=no, minimal-ui"><!-- HEAD_svelte-12b2vgd_END -->
+</head>
+
+<body xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<main>
+
+
+
+<nav class="fade-down svelte-1g57dz7"><section class="f j-ct mx-a svelte-1g57dz7"><div class="f fw4 p5" style="font-size:1.5em;color:#444;"><a href="#" class="svelte-1g57dz7"><img height="24px" class="p-rel svelte-1g57dz7" src="/icons/if.svg" alt="Logo">
+				Plutoniumm&#39;s Readings
+			</a></div></section>
+	<hr class="w-33 o-33"></nav>
+
+<main class=" svelte-1g57dz7">
+
+<div class="container"><div class="heading"><h1 class="title">2<sup>17</sup></h1>
+
+    <button id="undo-button"><svg viewBox="0 0 32 32" width="28" height="28" fill="transparent" stroke="#fff"><path d="M29 16 C29 22 24 29 16 29 8 29 3 22 3 16 3 10 8 3 16 3 21 3 25 6 27 9 M20 10 L27 9 28 2"></path></svg></button>
+    <button id="restart-button"><svg viewBox="0 0 32 32" width="28" height="28" fill="none" stroke="#fff"><path d="M16 2 L2 16 16 30 16 16 30 30 30 2 16 16 Z"></path></svg></button></div>
+
+  <div class="game game-container"><div class="game-message"><p></p>
+      <div class="lower"><a id="keep-button">Keep going</a>
+        <a id="retry-button">Try again</a></div></div>
+
+    <div class="grid"><div class="grid-row"><div class="grid-cell"></div>
+        <div class="grid-cell"></div>
+        <div class="grid-cell"></div>
+        <div class="grid-cell"></div></div>
+      <div class="grid-row"><div class="grid-cell"></div>
+        <div class="grid-cell"></div>
+        <div class="grid-cell"></div>
+        <div class="grid-cell"></div></div>
+      <div class="grid-row"><div class="grid-cell"></div>
+        <div class="grid-cell"></div>
+        <div class="grid-cell"></div>
+        <div class="grid-cell"></div></div>
+      <div class="grid-row"><div class="grid-cell"></div>
+        <div class="grid-cell"></div>
+        <div class="grid-cell"></div>
+        <div class="grid-cell"></div></div></div>
+
+    <div class="tile"></div></div>
+</div></main>
+
+
+
+
+			
+			<script>
+				{
+					__sveltekit_1klsddq = {
+						base: new URL("..", location).pathname.slice(0, -1),
+						env: {}
+					};
+
+					const element = document.currentScript.parentElement;
+
+					const data = [null,null];
+
+					Promise.all([
+						import("../_app/immutable/entry/start.622d1eea.js"),
+						import("../_app/immutable/entry/app.bc1f3c3a.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element, {
+							node_ids: [0, 5],
+							data,
+							form: null,
+							error: null
+						});
+					});
+				}
+			</script>
+		</main>
+
+</body>
+
+</html>
