@@ -1,5 +1,5 @@
 <script>
-    import Book from "./book.svelte";
+    import Book from "@components/book.svelte";
     import Fuse from "fuse.js";
     export let data;
 
@@ -31,13 +31,13 @@
 />
 <div class="section mx-a w-100 f fw j-ar">
     {#if !search.length}
-        {#each data.books as book, index}
-            <Book {book} {index} />
+        {#each data.books as book}
+            <Book {book} />
         {/each}
     {:else}
         {#key search}
             {#each fuse.search(search) as result}
-                <Book book={result.item} index={result.item.index} />
+                <Book book={result.item} />
             {/each}
         {/key}
     {/if}

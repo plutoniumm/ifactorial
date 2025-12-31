@@ -50,6 +50,11 @@
 
     border-right: 3px solid #8888;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+
+    background-image: url("/icons/if.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 50% auto;
   }
 
   .book {

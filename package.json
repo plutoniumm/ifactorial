@@ -4,8 +4,7 @@
   "scripts": {
     "dev": "vite dev",
     "build": "vite build",
-    "gen": "cd images && python3 build.py",
-    "deploy": "gh-pages -d build -t true"
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "@rollup/plugin-dsv": "2.0.3",
