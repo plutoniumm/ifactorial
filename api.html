@@ -67,14 +67,14 @@
 
 	
 		<link href="./_app/immutable/assets/0.272bddc1.css" rel="stylesheet">
-		<link href="./_app/immutable/assets/4.fd3ff8f4.css" rel="stylesheet">
-		<link rel="modulepreload" href="./_app/immutable/entry/start.a7487848.js">
+		<link href="./_app/immutable/assets/4.f7907800.css" rel="stylesheet">
+		<link rel="modulepreload" href="./_app/immutable/entry/start.4b025873.js">
 		<link rel="modulepreload" href="./_app/immutable/chunks/index.decce74a.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/singletons.2667ee41.js">
-		<link rel="modulepreload" href="./_app/immutable/entry/app.dced36cf.js">
+		<link rel="modulepreload" href="./_app/immutable/chunks/singletons.3c3fef92.js">
+		<link rel="modulepreload" href="./_app/immutable/entry/app.6d1bc79e.js">
 		<link rel="modulepreload" href="./_app/immutable/chunks/preload-helper.a4192956.js">
 		<link rel="modulepreload" href="./_app/immutable/nodes/0.ef44e9eb.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/4.acc775fd.js">
+		<link rel="modulepreload" href="./_app/immutable/nodes/4.8c7f66c6.js">
 </head>
 
 <body xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -90,41 +90,10 @@
 <main class="svelte-1ex2qjf"><main class="p20 svelte-ia0qqx">Even after Demerzel has achieved Galaxia at the end of time, I don&#39;t think I
   will be able to find out why I caved to those who asked for an API.
 
-  <div class="tabset svelte-11b0vdr"><input class="d-n svelte-11b0vdr" type="radio" name="tabset" id="tab0" checked>
-    <label class="p-rel d-ib ptr p10 fw6 svelte-11b0vdr" for="tab0">JSON</label><input class="d-n svelte-11b0vdr" type="radio" name="tabset" id="tab1" checked>
-    <label class="p-rel d-ib ptr p10 fw6 svelte-11b0vdr" for="tab1">CSV</label><input class="d-n svelte-11b0vdr" type="radio" name="tabset" id="tab2" checked>
-    <label class="p-rel d-ib ptr p10 fw6 svelte-11b0vdr" for="tab2">xml</label>
+  <div class="tabset svelte-11b0vdr">
 
-  <div class="panels svelte-11b0vdr"><section class="panel p10 d-n svelte-11b0vdr"><!-- HTML_TAG_START -->[object Promise]<!-- HTML_TAG_END -->
-      </section><section class="panel p10 d-n svelte-11b0vdr"><!-- HTML_TAG_START -->[object Promise]<!-- HTML_TAG_END -->
-      </section><section class="panel p10 d-n svelte-11b0vdr"><!-- HTML_TAG_START -->[object Promise]<!-- HTML_TAG_END -->
-      </section></div>
+  <div class="panels svelte-11b0vdr"></div>
 </div>
-
-  <pre><code>
-    export const load = async ({ params }) => {
-      let file = params.slug;
-      const isJSON = file.includes('.json');
-
-      if (isJSON) {
-        file = file.replace('.json', '');
-      }
-
-      let books = await import(`../../../data/${file}.csv`);
-      books = books.default;
-
-      if (!books) {
-        return { status: 404 };
-      };
-
-      const data =  {
-        books,
-        index: params.slug.match(/d/g).join(""),
-      }
-
-      return data;
-    }
-  </code></pre>
 
   Pages available in API formats are
   <table class="rx5 w-100 svelte-ia0qqx"><tr><th class="svelte-ia0qqx">Year</th>
@@ -162,7 +131,7 @@
 			
 			<script>
 				{
-					__sveltekit_1tu6fyr = {
+					__sveltekit_iar3i2 = {
 						base: new URL(".", location).pathname.slice(0, -1),
 						env: {}
 					};
@@ -172,8 +141,8 @@
 					const data = [null,null];
 
 					Promise.all([
-						import("./_app/immutable/entry/start.a7487848.js"),
-						import("./_app/immutable/entry/app.dced36cf.js")
+						import("./_app/immutable/entry/start.4b025873.js"),
+						import("./_app/immutable/entry/app.6d1bc79e.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element, {
 							node_ids: [0, 4],
