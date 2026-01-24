@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <books><book><index>1</index>
+<notes></notes>
+<author>C.S. Lewis</author>
+<name>The Great Divorce</name>
+<isbn>9780060652951</isbn>
+</book>
+<book><index>2</index>
+<notes></notes>
+<author>C.S. Lewis</author>
+<name>Out of the Silent Planet</name>
+<isbn>9780684823805</isbn>
+</book>
+<book><index>3</index>
+<notes></notes>
+<author>C.S. Lewis</author>
+<name>Perelandra</name>
+<isbn>9780025708402</isbn>
+</book>
+<book><index>4</index>
+<notes></notes>
+<author>Isaac Asimov</author>
+<name>I, Robot</name>
+<isbn>9780553803709</isbn>
+</book>
+<book><index>5</index>
+<notes></notes>
+<author>Asimov, Robert Silverberg</author>
+<name>The Positronic Man</name>
+<isbn>9780385263429</isbn>
+</book>
+<book><index>6</index>
+<notes></notes>
+<author>Isaac Asimov</author>
+<name>Nemesis</name>
+<isbn>9782724269123</isbn>
+</book>
+<book><index>7</index>
+<notes></notes>
+<author>Isaac Asimov</author>
+<name>The Caves of Steel</name>
+<isbn>0553293400</isbn>
+</book>
+<book><index>8</index>
+<notes></notes>
+<author>Isaac Asimov</author>
+<name>The Naked Sun</name>
+<isbn>9780449238059</isbn>
+</book>
+<book><index>9</index>
+<notes></notes>
+<author>Isaac Asimov</author>
+<name>Robots of Dawn</name>
+<isbn>9780345315717</isbn>
+</book>
+<book><index>10</index>
+<notes></notes>
+<author>Isaac Asimov</author>
+<name>Robots & The Empire</name>
+<isbn>9780345337696</isbn>
+</book>
+<book><index>11</index>
+<notes>*</notes>
+<author>Paul Rosolie</author>
+<name>Mother of God</name>
+<isbn>9780062259516</isbn>
+</book>
+<book><index>12</index>
+<notes></notes>
+<author>Isaac Asimov</author>
+<name>The Stars like Dust</name>
+<isbn>9780765319159</isbn>
+</book>
+<book><index>13</index>
+<notes></notes>
+<author>Isaac Asimov</author>
+<name>The Currents of Space</name>
+<isbn>9780765319166</isbn>
+</book>
+<book><index>14</index>
+<notes></notes>
+<author>Franz Kafka</author>
+<name>The Metamorphosis</name>
+<isbn>9781619490048</isbn>
+</book>
+<book><index>15</index>
+<notes></notes>
+<author>C.S. Lewis</author>
+<name>That Hideous Strength</name>
+<isbn>9780743234924</isbn>
+</book>
+<book><index>16</index>
+<notes></notes>
+<author>Isaac Asimov</author>
+<name>Pebble in the Sky</name>
+<isbn>9780345311962</isbn>
+</book>
+<book><index>17</index>
+<notes></notes>
+<author>Isaac Asimov</author>
+<name>Prelude to Foundation</name>
+<isbn>9782724246407</isbn>
+</book>
+<book><index>18</index>
+<notes>*</notes>
+<author>Vladimir Lenin</author>
+<name>Imperialism, the Highest Stage of Capitalism</name>
+<isbn>9781614271901</isbn>
+</book>
+<book><index>19</index>
+<notes></notes>
+<author>B. R. Ambedkar</author>
+<name>Annihilation of Caste</name>
+<isbn>9781074283759</isbn>
+</book>
+<book><index>20</index>
+<notes></notes>
+<author>Anthony Burgess</author>
+<name>A Clockwork Orange</name>
+<isbn>9781856132664</isbn>
+</book>
+<book><index>21</index>
+<notes></notes>
+<author>Isaac Asimov</author>
+<name>Forward the Foundation</name>
+<isbn>0553404881</isbn>
+</book>
+<book><index>22</index>
+<notes></notes>
+<author>Isaac Asimov</author>
+<name>Foundation</name>
+<isbn>9780553382570</isbn>
+</book>
+<book><index>23</index>
+<notes></notes>
+<author>Isaac Asimov</author>
+<name>Foundation and Empire</name>
+<isbn>9780380397013</isbn>
+</book>
+<book><index>24</index>
+<notes>*</notes>
+<author>Miguel Cervantes</author>
+<name>Don Quixote</name>
+<isbn>9781587266171</isbn>
+</book>
+<book><index>25</index>
+<notes></notes>
+<author>H. G. Wells</author>
+<name>The Island of Doctor Moreau</name>
+<isbn>0486290271</isbn>
+</book>
+<book><index>26</index>
+<notes></notes>
+<author>H. G. Wells</author>
+<name>The War of the Worlds</name>
+<isbn>9780141026008</isbn>
+</book>
+<book><index>27</index>
+<notes></notes>
+<author>H. G. Wells</author>
+<name>The Time Machine</name>
+<isbn>9789176371381</isbn>
+</book>
+<book><index>28</index>
+<notes></notes>
+<author>H. G. Wells</author>
+<name>The Sleeper Awakes</name>
+<isbn>9780141441061</isbn>
+</book>
+<book><index>29</index>
+<notes></notes>
+<author>James A. Corey</author>
+<name>Leviathan Wakes</name>
+<isbn>9780356517162</isbn>
+</book>
+<book><index>30</index>
+<notes></notes>
+<author>James A. Corey</author>
+<name>Caliban's War</name>
+<isbn>9781841499901</isbn>
+</book>
+<book><index>31</index>
+<notes></notes>
+<author>James A. Corey</author>
+<name>Abaddon’s Gate</name>
+<isbn>9780316129077</isbn>
+</book>
+<book><index>32</index>
+<notes></notes>
+<author>H. G. Wells</author>
+<name>The World Set Free</name>
+<isbn>080329820X</isbn>
+</book>
+<book><index>33</index>
+<notes></notes>
+<author>H. G. Wells</author>
+<name>The First Men in the Moon</name>
+<isbn>0192828282</isbn>
+</book>
+<book><index>34</index>
+<notes></notes>
+<author>Isaac Asimov</author>
+<name>Second Foundation</name>
+<isbn>9780008117511</isbn>
+</book>
+<book><index>35</index>
+<notes></notes>
+<author>Isaac Asimov</author>
+<name>Foundation’s Edge</name>
+<isbn>9780008117528</isbn>
+</book>
+<book><index>36</index>
+<notes></notes>
+<author>Philip K Dick</author>
+<name>The Man in the High Castle</name>
+<isbn>9780544817289</isbn>
+</book>
+<book><index>37</index>
+<notes></notes>
+<author>Han Kang</author>
+<name>The Vegetarian</name>
+<isbn>9780553448191</isbn>
+</book>
+<book><index>38</index>
+<notes>*</notes>
+<author>Isaac Asimov</author>
+<name>Foundation and Earth</name>
+<isbn>9780586071106</isbn>
+</book>
+<book><index>39</index>
+<notes></notes>
+<author>Han Kang</author>
+<name>Greek Lessons</name>
+<isbn>9780593595275</isbn>
+</book>
+<book><index>40</index>
+<notes></notes>
+<author>Homer</author>
+<name>The Illiad</name>
+<isbn>9781324001805</isbn>
+</book>
+<book><index>41</index>
+<notes></notes>
+<author>Homer</author>
+<name>The Odyssey</name>
+<isbn>9780131830752</isbn>
+</book>
+<book><index>42</index>
+<notes></notes>
+<author>Albert Camus</author>
+<name>The First Man</name>
+<isbn>0679439374</isbn>
+</book>
+<book><index>43</index>
+<notes></notes>
+<author>Fyodor Dostoyevsky</author>
+<name>The Brothers Karamazov</name>
+<isbn>9780852291634</isbn>
+</book>
+<book><index>44</index>
+<notes></notes>
+<author>Fyodor Dostoyevsky</author>
+<name>The Idiot</name>
+<isbn>9781862075931</isbn>
+</book>
+<book><index>45</index>
+<notes></notes>
+<author>Albert Camus</author>
+<name>The Myth of Sisyphus</name>
+<isbn>0679733736</isbn>
+</book>
+<book><index>46</index>
+<notes></notes>
+<author>James Joyce</author>
+<name>Ulysses</name>
+<isbn>9798682325047</isbn>
+</book>
+<book><index>47</index>
+<notes></notes>
+<author>Chandrachur Ghose</author>
+<name>India: The Birth of a Republic</name>
+<isbn>9780670097104</isbn>
+</book>
+<book><index>48</index>
+<notes></notes>
+<author>Joseph Menn</author>
+<name>Cult of the Dead Cow</name>
+<isbn>9781541762381</isbn>
+</book>
+<book><index>49</index>
+<notes>*</notes>
+<author>Michael Riordan, Lillian Hoddeson</author>
+<name>Crystal Fire</name>
+<isbn>0393041247</isbn>
+</book>
+<book><index>50</index>
+<notes></notes>
+<author>Andrew Roberts</author>
+<name>Napoleon</name>
+<isbn>9788490613214</isbn>
+</book>
+</books>

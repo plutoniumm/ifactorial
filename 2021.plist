@@ -1,0 +1,1605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+  <plist version="1.0">
+  <array><dict>
+
+      <key>index</key>
+      <string>1</string>
+      
+      <key>author</key>
+      <string>Neil DeGrasse Tyson</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781324003311</string>
+      
+      <key>name</key>
+      <string>Letters from an Astrophysicist</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>2</string>
+      
+      <key>author</key>
+      <string>Neil DeGrasse Tyson</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780393609394</string>
+      
+      <key>name</key>
+      <string>Astrophysics for People in a Hurry</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>3</string>
+      
+      <key>author</key>
+      <string>Hector Garcia, Francesc Miralles</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780143130727</string>
+      
+      <key>name</key>
+      <string>Ikigai</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>4</string>
+      
+      <key>author</key>
+      <string>Neil DeGrasse Tyson, Avis Lang</string>
+      
+      <key>notes</key>
+      <string>*</string>
+      
+      <key>isbn</key>
+      <string>9781984833983</string>
+      
+      <key>name</key>
+      <string>Accessory to War</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>5</string>
+      
+      <key>author</key>
+      <string>Robert L Picconi</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780739489031</string>
+      
+      <key>name</key>
+      <string>Einstein for Everyone</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>6</string>
+      
+      <key>author</key>
+      <string>Jordan Peterson</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780141988511</string>
+      
+      <key>name</key>
+      <string>12 Rules for Life: An Antidote to Chaos</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>7</string>
+      
+      <key>author</key>
+      <string>Nicollo Machiavelli</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781074139650</string>
+      
+      <key>name</key>
+      <string>The Prince</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>8</string>
+      
+      <key>author</key>
+      <string>Bill Gates</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780385546140</string>
+      
+      <key>name</key>
+      <string>How to Avoid a Climate Disaster</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>9</string>
+      
+      <key>author</key>
+      <string>Hans Rosling</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781250123824</string>
+      
+      <key>name</key>
+      <string>Factfullness</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>10</string>
+      
+      <key>author</key>
+      <string>Walter Isaacson</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781982115876</string>
+      
+      <key>name</key>
+      <string>The Code Breaker</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>11</string>
+      
+      <key>author</key>
+      <string>Fyodor Dostoyevsky</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781510766709</string>
+      
+      <key>name</key>
+      <string>Crime and Punishment</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>12</string>
+      
+      <key>author</key>
+      <string>Nassim Taleb</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780812979688</string>
+      
+      <key>name</key>
+      <string>Anti-fragile</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>13</string>
+      
+      <key>author</key>
+      <string>Matt Parker</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780593084694</string>
+      
+      <key>name</key>
+      <string>Humble Pi</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>14</string>
+      
+      <key>author</key>
+      <string>George Orwell</string>
+      
+      <key>notes</key>
+      <string>*</string>
+      
+      <key>isbn</key>
+      <string>9781785996313</string>
+      
+      <key>name</key>
+      <string>1984</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>15</string>
+      
+      <key>author</key>
+      <string>Cathy O’Neil</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780241296813</string>
+      
+      <key>name</key>
+      <string>Weapons of Math Destruction</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>16</string>
+      
+      <key>author</key>
+      <string>James Clear</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781847941831</string>
+      
+      <key>name</key>
+      <string>Atomic Habits</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>17</string>
+      
+      <key>author</key>
+      <string>Tim Harford</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780349143866</string>
+      
+      <key>name</key>
+      <string>How to Make the World Add Up</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>18</string>
+      
+      <key>author</key>
+      <string>Leonard Susskind</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780141976228</string>
+      
+      <key>name</key>
+      <string>Theoretical Minimum: Classical Mech</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>19</string>
+      
+      <key>author</key>
+      <string>Bill Bryson</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780307885159</string>
+      
+      <key>name</key>
+      <string>A Short History of Nearly Everything</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>20</string>
+      
+      <key>author</key>
+      <string>Adam Smith</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781404309982</string>
+      
+      <key>name</key>
+      <string>The Wealth of Nations</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>21</string>
+      
+      <key>author</key>
+      <string>George Orwell</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781943138425</string>
+      
+      <key>name</key>
+      <string>Animal Farm</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>22</string>
+      
+      <key>author</key>
+      <string>Elizabeth Kolbert</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781250062185</string>
+      
+      <key>name</key>
+      <string>The Sixth Extinction</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>23</string>
+      
+      <key>author</key>
+      <string>Marry Shelly</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9789176370728</string>
+      
+      <key>name</key>
+      <string>Frankenstein</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>24</string>
+      
+      <key>author</key>
+      <string>Aldous Huxley</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780062001719</string>
+      
+      <key>name</key>
+      <string>Brave New World</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>25</string>
+      
+      <key>author</key>
+      <string>Jonathan Haidt, Gred Luianoff</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780735224919</string>
+      
+      <key>name</key>
+      <string>The Coddling of the American Mind</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>26</string>
+      
+      <key>author</key>
+      <string>Yeonmi Park</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781611764666</string>
+      
+      <key>name</key>
+      <string>In Order to Live</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>27</string>
+      
+      <key>author</key>
+      <string>Daniel Kahneman</string>
+      
+      <key>notes</key>
+      <string>*</string>
+      
+      <key>isbn</key>
+      <string>9780385676533</string>
+      
+      <key>name</key>
+      <string>Thinking Fast and Slow</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>28</string>
+      
+      <key>author</key>
+      <string>Richard Dawkins</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780552773317</string>
+      
+      <key>name</key>
+      <string>The God Delusion</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>29</string>
+      
+      <key>author</key>
+      <string>Lao Tau</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781787247659</string>
+      
+      <key>name</key>
+      <string>Tao Te Ching</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>30</string>
+      
+      <key>author</key>
+      <string>Angela Duckworth</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781501111105</string>
+      
+      <key>name</key>
+      <string>Grit</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>31</string>
+      
+      <key>author</key>
+      <string>Dawkins, Bennett, Harris, Hitchens</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780525511953</string>
+      
+      <key>name</key>
+      <string>The Four Horsemen</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>32</string>
+      
+      <key>author</key>
+      <string>Reed Hastings</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781984877864</string>
+      
+      <key>name</key>
+      <string>No Rules Rules</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>33</string>
+      
+      <key>author</key>
+      <string>Miyamoto Musashi</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781611806403</string>
+      
+      <key>name</key>
+      <string>The Book of Five Rings</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>34</string>
+      
+      <key>author</key>
+      <string>Malcom Gladwell</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780316024976</string>
+      
+      <key>name</key>
+      <string>Outliers</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>35</string>
+      
+      <key>author</key>
+      <string>Victor Frankl</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780807067994</string>
+      
+      <key>name</key>
+      <string>Man’s Search for Meaning</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>36</string>
+      
+      <key>author</key>
+      <string>Charles Darwin</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781402789595</string>
+      
+      <key>name</key>
+      <string>On The Origin of Species</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>37</string>
+      
+      <key>author</key>
+      <string>Friedrich Nitzsche</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>048629868X</string>
+      
+      <key>name</key>
+      <string>Beyond Good and Evil</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>38</string>
+      
+      <key>author</key>
+      <string>John Brooks</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>0575003499</string>
+      
+      <key>name</key>
+      <string>Business Adventures</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>39</string>
+      
+      <key>author</key>
+      <string>Noam Chomsky</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780375714498</string>
+      
+      <key>name</key>
+      <string>Manufacturing Consent</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>40</string>
+      
+      <key>author</key>
+      <string>Stephen Hawking</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780553380163</string>
+      
+      <key>name</key>
+      <string>Brief History of Time</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>41</string>
+      
+      <key>author</key>
+      <string>Aleksandr Solzhenitsyn</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>0060007761</string>
+      
+      <key>name</key>
+      <string>The Gulag Archipelago</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>42</string>
+      
+      <key>author</key>
+      <string>Jon Ronson</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781594488016</string>
+      
+      <key>name</key>
+      <string>The Psychopath Test</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>43</string>
+      
+      <key>author</key>
+      <string>Stephen Hawking</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>0553095234</string>
+      
+      <key>name</key>
+      <string>Black Holes and Baby Universes</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>44</string>
+      
+      <key>author</key>
+      <string>Arthur Schopenhauer</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781602063518</string>
+      
+      <key>name</key>
+      <string>The Art of Being Right</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>45</string>
+      
+      <key>author</key>
+      <string>Stephen Hawking</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780553819229</string>
+      
+      <key>name</key>
+      <string>The Grand Design</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>46</string>
+      
+      <key>author</key>
+      <string>Bertrand Russell</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9788130700182</string>
+      
+      <key>name</key>
+      <string>Education</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>47</string>
+      
+      <key>author</key>
+      <string>Gad Saad</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781621579595</string>
+      
+      <key>name</key>
+      <string>The Parasitic Mind</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>48</string>
+      
+      <key>author</key>
+      <string>Barack Obama</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781524763169</string>
+      
+      <key>name</key>
+      <string>A Promised Land</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>49</string>
+      
+      <key>author</key>
+      <string>Christopher Browning</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>0060190132</string>
+      
+      <key>name</key>
+      <string>Ordinary Men</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>50</string>
+      
+      <key>author</key>
+      <string>Robert Iger</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780593170984</string>
+      
+      <key>name</key>
+      <string>The Ride of a Lifetime</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>51</string>
+      
+      <key>author</key>
+      <string>Jordan Peterson</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780241407622</string>
+      
+      <key>name</key>
+      <string>12 More Rules for Life: Beyond Order</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>52</string>
+      
+      <key>author</key>
+      <string>Richard Feynman</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780738206509</string>
+      
+      <key>name</key>
+      <string>Six Not So Easy Pieces</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>53</string>
+      
+      <key>author</key>
+      <string>Nicholas Carr</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780393339758</string>
+      
+      <key>name</key>
+      <string>The Shallows</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>54</string>
+      
+      <key>author</key>
+      <string>Yuval Noah Harari</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780062316097</string>
+      
+      <key>name</key>
+      <string>Sapiens</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>55</string>
+      
+      <key>author</key>
+      <string>Yuval Noah Harari</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780771038686</string>
+      
+      <key>name</key>
+      <string>Homo Deus</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>56</string>
+      
+      <key>author</key>
+      <string>Richard Feynman</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780553347845</string>
+      
+      <key>name</key>
+      <string>What do you care what other people think?</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>57</string>
+      
+      <key>author</key>
+      <string>Richard Feynman</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>0553346687</string>
+      
+      <key>name</key>
+      <string>Surely You’re Joking Mr. Feynman</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>58</string>
+      
+      <key>author</key>
+      <string>Titania McGrath</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9788491819707</string>
+      
+      <key>name</key>
+      <string>Woke</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>59</string>
+      
+      <key>author</key>
+      <string>Robert Kiyosaki</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781612680019</string>
+      
+      <key>name</key>
+      <string>Rich Dad Poor Dad</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>60</string>
+      
+      <key>author</key>
+      <string>Joe Navarro</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780061438295</string>
+      
+      <key>name</key>
+      <string>What Every Body is Saying?</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>61</string>
+      
+      <key>author</key>
+      <string>David Attenborough</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780316057455</string>
+      
+      <key>name</key>
+      <string>Life on Earth</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>62</string>
+      
+      <key>author</key>
+      <string>Chriss Voss</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780062407801</string>
+      
+      <key>name</key>
+      <string>Never Split the Difference</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>63</string>
+      
+      <key>author</key>
+      <string>Chiara Marletto</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780241310946</string>
+      
+      <key>name</key>
+      <string>The Science of Can and Can’t</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>64</string>
+      
+      <key>author</key>
+      <string>Richard Rhodes</string>
+      
+      <key>notes</key>
+      <string>*</string>
+      
+      <key>isbn</key>
+      <string>9780684813783</string>
+      
+      <key>name</key>
+      <string>The Making of the Atomic Bomb</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>65</string>
+      
+      <key>author</key>
+      <string>Hannah Arendt</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>0143039881</string>
+      
+      <key>name</key>
+      <string>Eichmann in Jerusalem</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>66</string>
+      
+      <key>author</key>
+      <string>Malcom Gladwell</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780241535868</string>
+      
+      <key>name</key>
+      <string>The Bomber Mafia</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>67</string>
+      
+      <key>author</key>
+      <string>Malcom Gladwell</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780316299220</string>
+      
+      <key>name</key>
+      <string>Talking to Strangers</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>68</string>
+      
+      <key>author</key>
+      <string>Walter Isaacson</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781594138850</string>
+      
+      <key>name</key>
+      <string>The Innovators</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>69</string>
+      
+      <key>author</key>
+      <string>Matthew Walker</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781501144325</string>
+      
+      <key>name</key>
+      <string>Why We Sleep</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>70</string>
+      
+      <key>author</key>
+      <string>Vaclav Smil</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780241454411</string>
+      
+      <key>name</key>
+      <string>Numbers Don’t Lie</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>71</string>
+      
+      <key>author</key>
+      <string>Abhijit Banerjee & Esther Duflo</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780718193669</string>
+      
+      <key>name</key>
+      <string>Poor Economics</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>72</string>
+      
+      <key>author</key>
+      <string>David Epstien</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780735214507</string>
+      
+      <key>name</key>
+      <string>Range</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>73</string>
+      
+      <key>author</key>
+      <string>Abhijit Banerjee & Esther Duflo</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781549128851</string>
+      
+      <key>name</key>
+      <string>Good Economics for Bad Times</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>74</string>
+      
+      <key>author</key>
+      <string>Steven Pinker</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780393045352</string>
+      
+      <key>name</key>
+      <string>How The Mind Works</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>75</string>
+      
+      <key>author</key>
+      <string>Steve Strogatz</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781328879981</string>
+      
+      <key>name</key>
+      <string>Infinite Powers</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>76</string>
+      
+      <key>author</key>
+      <string>Sun Tzu</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781403774644</string>
+      
+      <key>name</key>
+      <string>The Art of War</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>77</string>
+      
+      <key>author</key>
+      <string>Hector Garcia, Francesc Miralles</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781529401295</string>
+      
+      <key>name</key>
+      <string>Ichigo Ichie</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>78</string>
+      
+      <key>author</key>
+      <string>Jordan Peterson</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780415922227</string>
+      
+      <key>name</key>
+      <string>Maps of Meaning</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>79</string>
+      
+      <key>author</key>
+      <string>Kevin Many et al</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780132755108</string>
+      
+      <key>name</key>
+      <string>Making the World Work Better</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>80</string>
+      
+      <key>author</key>
+      <string>Michael Pollan</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780593296905</string>
+      
+      <key>name</key>
+      <string>This is Your Mind on Plants</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>81</string>
+      
+      <key>author</key>
+      <string>Richard Feynman</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780141021133</string>
+      
+      <key>name</key>
+      <string>Don’t You Have Time to Think?</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>82</string>
+      
+      <key>author</key>
+      <string>Morgan Housel</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780857197689</string>
+      
+      <key>name</key>
+      <string>Psychology of Money</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>83</string>
+      
+      <key>author</key>
+      <string>Brian Christian & Tom Griffiths</string>
+      
+      <key>notes</key>
+      <string>*</string>
+      
+      <key>isbn</key>
+      <string>9780007547999</string>
+      
+      <key>name</key>
+      <string>Algorithms to Live By</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>84</string>
+      
+      <key>author</key>
+      <string>Herbert Bix</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780060931308</string>
+      
+      <key>name</key>
+      <string>Hirohito</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>85</string>
+      
+      <key>author</key>
+      <string>Richard Ayoade</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780571316533</string>
+      
+      <key>name</key>
+      <string>Ayoade on Ayoade</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>86</string>
+      
+      <key>author</key>
+      <string>Meik Wiking</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781470828363</string>
+      
+      <key>name</key>
+      <string>The Little Book of Hygge</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>87</string>
+      
+      <key>author</key>
+      <string>Meik Wiking</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781538499368</string>
+      
+      <key>name</key>
+      <string>The Little Book of Lykke</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>88</string>
+      
+      <key>author</key>
+      <string>Joseph Heller</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781451621174</string>
+      
+      <key>name</key>
+      <string>Catch-22</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>89</string>
+      
+      <key>author</key>
+      <string>Richard Feynman</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780738206509</string>
+      
+      <key>name</key>
+      <string>Six Easy Pieces</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>90</string>
+      
+      <key>author</key>
+      <string>Herman Hesse</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9789586392938</string>
+      
+      <key>name</key>
+      <string>Siddhartha</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>91</string>
+      
+      <key>author</key>
+      <string>Stephen Hawking</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>1893224546</string>
+      
+      <key>name</key>
+      <string>The Theory of Everything</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>92</string>
+      
+      <key>author</key>
+      <string>Joe Navarro</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780061969867</string>
+      
+      <key>name</key>
+      <string>Louder than Words</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>93</string>
+      
+      <key>author</key>
+      <string>Parag Khanna</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781474604253</string>
+      
+      <key>name</key>
+      <string>Connectography</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>94</string>
+      
+      <key>author</key>
+      <string>Hayao Miyazaki</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781421561042</string>
+      
+      <key>name</key>
+      <string>Starting Point</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>95</string>
+      
+      <key>author</key>
+      <string>Andrew McAfee</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781982103576</string>
+      
+      <key>name</key>
+      <string>More From Less</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>96</string>
+      
+      <key>author</key>
+      <string>Matt Richtel</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780062698490</string>
+      
+      <key>name</key>
+      <string>An Elegant Defense</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>97</string>
+      
+      <key>author</key>
+      <string>Anthony Beevor</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780141048130</string>
+      
+      <key>name</key>
+      <string>D-Day</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>98</string>
+      
+      <key>author</key>
+      <string>Thomas Gryta, Ted Mann</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9780358567059</string>
+      
+      <key>name</key>
+      <string>Lights Out</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>99</string>
+      
+      <key>author</key>
+      <string>David Hoffman</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781848312302</string>
+      
+      <key>name</key>
+      <string>Dead Hand</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>100</string>
+      
+      <key>author</key>
+      <string>G H Hardy</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>isbn</key>
+      <string>9781107604636</string>
+      
+      <key>name</key>
+      <string>A Mathematicians Apology</string>
+      </dict></array>
+</plist>

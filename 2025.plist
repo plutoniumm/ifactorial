@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+  <plist version="1.0">
+  <array><dict>
+
+      <key>index</key>
+      <string>1</string>
+      
+      <key>isbn</key>
+      <string>9780593146798</string>
+      
+      <key>author</key>
+      <string>Andy Greenberg</string>
+      
+      <key>name</key>
+      <string>Sandworm</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>2</string>
+      
+      <key>isbn</key>
+      <string>9781627791618</string>
+      
+      <key>author</key>
+      <string>Glenn Greenwald</string>
+      
+      <key>name</key>
+      <string>No Place to Hide</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>3</string>
+      
+      <key>isbn</key>
+      <string>9780593714027</string>
+      
+      <key>author</key>
+      <string>Scott Galloway</string>
+      
+      <key>name</key>
+      <string>The Algebra of Wealth</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>4</string>
+      
+      <key>isbn</key>
+      <string>9781631492228</string>
+      
+      <key>author</key>
+      <string>Mary Beard</string>
+      
+      <key>name</key>
+      <string>SPQR</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>5</string>
+      
+      <key>isbn</key>
+      <string>9780770436179</string>
+      
+      <key>author</key>
+      <string>Kim Zetter</string>
+      
+      <key>name</key>
+      <string>Countdown to Zero Day</string>
+      
+      <key>notes</key>
+      <string>*</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>6</string>
+      
+      <key>isbn</key>
+      <string>9780241636602</string>
+      
+      <key>author</key>
+      <string>Gary Stevenson</string>
+      
+      <key>name</key>
+      <string>The Trading Game</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>7</string>
+      
+      <key>isbn</key>
+      <string>9781324050506</string>
+      
+      <key>author</key>
+      <string>Ananyo Bhattacharya</string>
+      
+      <key>name</key>
+      <string>The Man from the Future</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>8</string>
+      
+      <key>isbn</key>
+      <string>9781615198474</string>
+      
+      <key>author</key>
+      <string>Tim Marshall</string>
+      
+      <key>name</key>
+      <string>Prisoners of Geography</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>9</string>
+      
+      <key>isbn</key>
+      <string>9780805242256</string>
+      
+      <key>author</key>
+      <string>Hannah Arendt</string>
+      
+      <key>name</key>
+      <string>Origins of Totalitarianism</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>10</string>
+      
+      <key>isbn</key>
+      <string>9781501168338</string>
+      
+      <key>author</key>
+      <string>Tim Marshall</string>
+      
+      <key>name</key>
+      <string>Worth Dying For</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>11</string>
+      
+      <key>isbn</key>
+      <string>9781783966875</string>
+      
+      <key>author</key>
+      <string>Tim Marshall</string>
+      
+      <key>name</key>
+      <string>Future of Georgaphy</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>12</string>
+      
+      <key>isbn</key>
+      <string>9780465094257</string>
+      
+      <key>author</key>
+      <string>Sabine Hossenfelder</string>
+      
+      <key>name</key>
+      <string>Lost in Math</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>13</string>
+      
+      <key>isbn</key>
+      <string>9781783966028</string>
+      
+      <key>author</key>
+      <string>Tim Marshall</string>
+      
+      <key>name</key>
+      <string>The Power of Geography</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>14</string>
+      
+      <key>isbn</key>
+      <string>9780752881614</string>
+      
+      <key>author</key>
+      <string>Marco Pierre White</string>
+      
+      <key>name</key>
+      <string>The Devil in the Kitchen</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>15</string>
+      
+      <key>isbn</key>
+      <string>9780425017562</string>
+      
+      <key>author</key>
+      <string>Robert A. Heinlein</string>
+      
+      <key>name</key>
+      <string>Stranger in a Strange Land</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>16</string>
+      
+      <key>isbn</key>
+      <string>9780465056965</string>
+      
+      <key>author</key>
+      <string>Serhii Plokhy</string>
+      
+      <key>name</key>
+      <string>The Last Empire</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>17</string>
+      
+      <key>isbn</key>
+      <string>9781401303082</string>
+      
+      <key>author</key>
+      <string>Frank Luntz</string>
+      
+      <key>name</key>
+      <string>Words that Work</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>18</string>
+      
+      <key>isbn</key>
+      <string>9780593728697</string>
+      
+      <key>author</key>
+      <string>Jacinda Ardern</string>
+      
+      <key>name</key>
+      <string>A Different Kind of Power</string>
+      
+      <key>notes</key>
+      <string>*</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>19</string>
+      
+      <key>isbn</key>
+      <string>9780141034645</string>
+      
+      <key>author</key>
+      <string>Steven Pinker</string>
+      
+      <key>name</key>
+      <string>The Better Angels of Our Nature</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>20</string>
+      
+      <key>isbn</key>
+      <string>0140277447</string>
+      
+      <key>author</key>
+      <string>Iris Chang</string>
+      
+      <key>name</key>
+      <string>The Rape of Nanking</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>21</string>
+      
+      <key>isbn</key>
+      <string>9780593801581</string>
+      
+      <key>author</key>
+      <string>Bill Gates</string>
+      
+      <key>name</key>
+      <string>Source Code</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>22</string>
+      
+      <key>isbn</key>
+      <string>9781250756121</string>
+      
+      <key>author</key>
+      <string>Anna Malaika Tubbs</string>
+      
+      <key>name</key>
+      <string>Three Mothers</string>
+      
+      <key>notes</key>
+      <string>*</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>23</string>
+      
+      <key>isbn</key>
+      <string>0441013597</string>
+      
+      <key>author</key>
+      <string>Frank Herbert</string>
+      
+      <key>name</key>
+      <string>Dune</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>24</string>
+      
+      <key>isbn</key>
+      <string>9780441172696</string>
+      
+      <key>author</key>
+      <string>Frank Herbert</string>
+      
+      <key>name</key>
+      <string>Dune: Messiah</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>25</string>
+      
+      <key>isbn</key>
+      <string>9780441104024</string>
+      
+      <key>author</key>
+      <string>Frank Herbert</string>
+      
+      <key>name</key>
+      <string>Dune: Children of Dune</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>26</string>
+      
+      <key>isbn</key>
+      <string>9788184007558</string>
+      
+      <key>author</key>
+      <string>Pavitra Kumar</string>
+      
+      <key>name</key>
+      <string>Bhujia Barons</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>27</string>
+      
+      <key>isbn</key>
+      <string>9780593655955</string>
+      
+      <key>author</key>
+      <string>Arnold Schwarzenegger</string>
+      
+      <key>name</key>
+      <string>Be Useful: Seven Tools for Life</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>28</string>
+      
+      <key>isbn</key>
+      <string>9788125015659</string>
+      
+      <key>author</key>
+      <string>Satyajit Ray</string>
+      
+      <key>name</key>
+      <string>Our Films, Their Films</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>29</string>
+      
+      <key>isbn</key>
+      <string>9781781858929</string>
+      
+      <key>author</key>
+      <string>Dan Jones</string>
+      
+      <key>name</key>
+      <string>The Templars</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>30</string>
+      
+      <key>isbn</key>
+      <string>9780140185850</string>
+      
+      <key>author</key>
+      <string>Yevgeny Zamyatin</string>
+      
+      <key>name</key>
+      <string>We</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>31</string>
+      
+      <key>isbn</key>
+      <string>9781035023677</string>
+      
+      <key>author</key>
+      <string>Time Berners-Lee</string>
+      
+      <key>name</key>
+      <string>This is for Everyone</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>32</string>
+      
+      <key>isbn</key>
+      <string>9781784879693</string>
+      
+      <key>author</key>
+      <string>Kurt Vonnegut</string>
+      
+      <key>name</key>
+      <string>Slaughterhouse-Five</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>33</string>
+      
+      <key>isbn</key>
+      <string>9781847927033</string>
+      
+      <key>author</key>
+      <string>Alexei Navalny</string>
+      
+      <key>name</key>
+      <string>Patriot</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>34</string>
+      
+      <key>isbn</key>
+      <string>9780008299781</string>
+      
+      <key>author</key>
+      <string>David De Jong</string>
+      
+      <key>name</key>
+      <string>Nazi Billionaires</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>35</string>
+      
+      <key>isbn</key>
+      <string>9780140132700</string>
+      
+      <key>author</key>
+      <string>Salman Rushdie</string>
+      
+      <key>name</key>
+      <string>Midnight's Children</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>36</string>
+      
+      <key>isbn</key>
+      <string>9781473695702</string>
+      
+      <key>author</key>
+      <string>Marc David Baer</string>
+      
+      <key>name</key>
+      <string>The Ottomans</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>37</string>
+      
+      <key>isbn</key>
+      <string>9780061743528</string>
+      
+      <key>author</key>
+      <string>Harper Lee</string>
+      
+      <key>name</key>
+      <string>To Kill a Mockingbird</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>38</string>
+      
+      <key>isbn</key>
+      <string>9789391165055</string>
+      
+      <key>author</key>
+      <string>Anirudh Kanisetti</string>
+      
+      <key>name</key>
+      <string>Lords of the Deccan</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>39</string>
+      
+      <key>isbn</key>
+      <string>9780670084982</string>
+      
+      <key>author</key>
+      <string>Thomas Timberg</string>
+      
+      <key>name</key>
+      <string>The Marwaris</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>40</string>
+      
+      <key>isbn</key>
+      <string>9780449219775</string>
+      
+      <key>author</key>
+      <string>William Shirer</string>
+      
+      <key>name</key>
+      <string>Rise and Fall of the Third Reich</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>41</string>
+      
+      <key>isbn</key>
+      <string>9781684415625</string>
+      
+      <key>author</key>
+      <string>Venki Ramakrishnan</string>
+      
+      <key>name</key>
+      <string>Gene Machine</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>42</string>
+      
+      <key>isbn</key>
+      <string>9781668031247</string>
+      
+      <key>author</key>
+      <string>Charles Piller</string>
+      
+      <key>name</key>
+      <string>Doctored</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>43</string>
+      
+      <key>isbn</key>
+      <string>9780688172176</string>
+      
+      <key>author</key>
+      <string>VS Ramachandran</string>
+      
+      <key>name</key>
+      <string>Phantoms in the Brain</string>
+      
+      <key>notes</key>
+      <string>*</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>44</string>
+      
+      <key>isbn</key>
+      <string>9781529925531</string>
+      
+      <key>author</key>
+      <string>Lewis Dartnell</string>
+      
+      <key>name</key>
+      <string>Being Human</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>45</string>
+      
+      <key>isbn</key>
+      <string>9780593804148</string>
+      
+      <key>author</key>
+      <string>Omar El Akkad</string>
+      
+      <key>name</key>
+      <string>One Day, Everyone Will Have Always Been Against This</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>46</string>
+      
+      <key>isbn</key>
+      <string>9780525556572</string>
+      
+      <key>author</key>
+      <string>John Green</string>
+      
+      <key>name</key>
+      <string>Everything is Tuberculosis</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>47</string>
+      
+      <key>isbn</key>
+      <string>9781668053393</string>
+      
+      <key>author</key>
+      <string>Patrick McGee</string>
+      
+      <key>name</key>
+      <string>Apple in China</string>
+      
+      <key>notes</key>
+      <string>*</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>48</string>
+      
+      <key>isbn</key>
+      <string>9781405964098</string>
+      
+      <key>author</key>
+      <string>John Steinbeck</string>
+      
+      <key>name</key>
+      <string>Of Mice and Men</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>49</string>
+      
+      <key>isbn</key>
+      <string>0886825016</string>
+      
+      <key>author</key>
+      <string>Ursula Le Guin</string>
+      
+      <key>name</key>
+      <string>The Ones Who Walk Away from Omelas</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>50</string>
+      
+      <key>isbn</key>
+      <string>9783956763182</string>
+      
+      <key>author</key>
+      <string>Nathuram Godse</string>
+      
+      <key>name</key>
+      <string>Why I Killed Gandhi</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict></array>
+</plist>

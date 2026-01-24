@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <books><book><index>1</index>
+<author>Neil DeGrasse Tyson</author>
+<notes></notes>
+<isbn>9781324003311</isbn>
+<name>Letters from an Astrophysicist</name>
+</book>
+<book><index>2</index>
+<author>Neil DeGrasse Tyson</author>
+<notes></notes>
+<isbn>9780393609394</isbn>
+<name>Astrophysics for People in a Hurry</name>
+</book>
+<book><index>3</index>
+<author>Hector Garcia, Francesc Miralles</author>
+<notes></notes>
+<isbn>9780143130727</isbn>
+<name>Ikigai</name>
+</book>
+<book><index>4</index>
+<author>Neil DeGrasse Tyson, Avis Lang</author>
+<notes>*</notes>
+<isbn>9781984833983</isbn>
+<name>Accessory to War</name>
+</book>
+<book><index>5</index>
+<author>Robert L Picconi</author>
+<notes></notes>
+<isbn>9780739489031</isbn>
+<name>Einstein for Everyone</name>
+</book>
+<book><index>6</index>
+<author>Jordan Peterson</author>
+<notes></notes>
+<isbn>9780141988511</isbn>
+<name>12 Rules for Life: An Antidote to Chaos</name>
+</book>
+<book><index>7</index>
+<author>Nicollo Machiavelli</author>
+<notes></notes>
+<isbn>9781074139650</isbn>
+<name>The Prince</name>
+</book>
+<book><index>8</index>
+<author>Bill Gates</author>
+<notes></notes>
+<isbn>9780385546140</isbn>
+<name>How to Avoid a Climate Disaster</name>
+</book>
+<book><index>9</index>
+<author>Hans Rosling</author>
+<notes></notes>
+<isbn>9781250123824</isbn>
+<name>Factfullness</name>
+</book>
+<book><index>10</index>
+<author>Walter Isaacson</author>
+<notes></notes>
+<isbn>9781982115876</isbn>
+<name>The Code Breaker</name>
+</book>
+<book><index>11</index>
+<author>Fyodor Dostoyevsky</author>
+<notes></notes>
+<isbn>9781510766709</isbn>
+<name>Crime and Punishment</name>
+</book>
+<book><index>12</index>
+<author>Nassim Taleb</author>
+<notes></notes>
+<isbn>9780812979688</isbn>
+<name>Anti-fragile</name>
+</book>
+<book><index>13</index>
+<author>Matt Parker</author>
+<notes></notes>
+<isbn>9780593084694</isbn>
+<name>Humble Pi</name>
+</book>
+<book><index>14</index>
+<author>George Orwell</author>
+<notes>*</notes>
+<isbn>9781785996313</isbn>
+<name>1984</name>
+</book>
+<book><index>15</index>
+<author>Cathy O’Neil</author>
+<notes></notes>
+<isbn>9780241296813</isbn>
+<name>Weapons of Math Destruction</name>
+</book>
+<book><index>16</index>
+<author>James Clear</author>
+<notes></notes>
+<isbn>9781847941831</isbn>
+<name>Atomic Habits</name>
+</book>
+<book><index>17</index>
+<author>Tim Harford</author>
+<notes></notes>
+<isbn>9780349143866</isbn>
+<name>How to Make the World Add Up</name>
+</book>
+<book><index>18</index>
+<author>Leonard Susskind</author>
+<notes></notes>
+<isbn>9780141976228</isbn>
+<name>Theoretical Minimum: Classical Mech</name>
+</book>
+<book><index>19</index>
+<author>Bill Bryson</author>
+<notes></notes>
+<isbn>9780307885159</isbn>
+<name>A Short History of Nearly Everything</name>
+</book>
+<book><index>20</index>
+<author>Adam Smith</author>
+<notes></notes>
+<isbn>9781404309982</isbn>
+<name>The Wealth of Nations</name>
+</book>
+<book><index>21</index>
+<author>George Orwell</author>
+<notes></notes>
+<isbn>9781943138425</isbn>
+<name>Animal Farm</name>
+</book>
+<book><index>22</index>
+<author>Elizabeth Kolbert</author>
+<notes></notes>
+<isbn>9781250062185</isbn>
+<name>The Sixth Extinction</name>
+</book>
+<book><index>23</index>
+<author>Marry Shelly</author>
+<notes></notes>
+<isbn>9789176370728</isbn>
+<name>Frankenstein</name>
+</book>
+<book><index>24</index>
+<author>Aldous Huxley</author>
+<notes></notes>
+<isbn>9780062001719</isbn>
+<name>Brave New World</name>
+</book>
+<book><index>25</index>
+<author>Jonathan Haidt, Gred Luianoff</author>
+<notes></notes>
+<isbn>9780735224919</isbn>
+<name>The Coddling of the American Mind</name>
+</book>
+<book><index>26</index>
+<author>Yeonmi Park</author>
+<notes></notes>
+<isbn>9781611764666</isbn>
+<name>In Order to Live</name>
+</book>
+<book><index>27</index>
+<author>Daniel Kahneman</author>
+<notes>*</notes>
+<isbn>9780385676533</isbn>
+<name>Thinking Fast and Slow</name>
+</book>
+<book><index>28</index>
+<author>Richard Dawkins</author>
+<notes></notes>
+<isbn>9780552773317</isbn>
+<name>The God Delusion</name>
+</book>
+<book><index>29</index>
+<author>Lao Tau</author>
+<notes></notes>
+<isbn>9781787247659</isbn>
+<name>Tao Te Ching</name>
+</book>
+<book><index>30</index>
+<author>Angela Duckworth</author>
+<notes></notes>
+<isbn>9781501111105</isbn>
+<name>Grit</name>
+</book>
+<book><index>31</index>
+<author>Dawkins, Bennett, Harris, Hitchens</author>
+<notes></notes>
+<isbn>9780525511953</isbn>
+<name>The Four Horsemen</name>
+</book>
+<book><index>32</index>
+<author>Reed Hastings</author>
+<notes></notes>
+<isbn>9781984877864</isbn>
+<name>No Rules Rules</name>
+</book>
+<book><index>33</index>
+<author>Miyamoto Musashi</author>
+<notes></notes>
+<isbn>9781611806403</isbn>
+<name>The Book of Five Rings</name>
+</book>
+<book><index>34</index>
+<author>Malcom Gladwell</author>
+<notes></notes>
+<isbn>9780316024976</isbn>
+<name>Outliers</name>
+</book>
+<book><index>35</index>
+<author>Victor Frankl</author>
+<notes></notes>
+<isbn>9780807067994</isbn>
+<name>Man’s Search for Meaning</name>
+</book>
+<book><index>36</index>
+<author>Charles Darwin</author>
+<notes></notes>
+<isbn>9781402789595</isbn>
+<name>On The Origin of Species</name>
+</book>
+<book><index>37</index>
+<author>Friedrich Nitzsche</author>
+<notes></notes>
+<isbn>048629868X</isbn>
+<name>Beyond Good and Evil</name>
+</book>
+<book><index>38</index>
+<author>John Brooks</author>
+<notes></notes>
+<isbn>0575003499</isbn>
+<name>Business Adventures</name>
+</book>
+<book><index>39</index>
+<author>Noam Chomsky</author>
+<notes></notes>
+<isbn>9780375714498</isbn>
+<name>Manufacturing Consent</name>
+</book>
+<book><index>40</index>
+<author>Stephen Hawking</author>
+<notes></notes>
+<isbn>9780553380163</isbn>
+<name>Brief History of Time</name>
+</book>
+<book><index>41</index>
+<author>Aleksandr Solzhenitsyn</author>
+<notes></notes>
+<isbn>0060007761</isbn>
+<name>The Gulag Archipelago</name>
+</book>
+<book><index>42</index>
+<author>Jon Ronson</author>
+<notes></notes>
+<isbn>9781594488016</isbn>
+<name>The Psychopath Test</name>
+</book>
+<book><index>43</index>
+<author>Stephen Hawking</author>
+<notes></notes>
+<isbn>0553095234</isbn>
+<name>Black Holes and Baby Universes</name>
+</book>
+<book><index>44</index>
+<author>Arthur Schopenhauer</author>
+<notes></notes>
+<isbn>9781602063518</isbn>
+<name>The Art of Being Right</name>
+</book>
+<book><index>45</index>
+<author>Stephen Hawking</author>
+<notes></notes>
+<isbn>9780553819229</isbn>
+<name>The Grand Design</name>
+</book>
+<book><index>46</index>
+<author>Bertrand Russell</author>
+<notes></notes>
+<isbn>9788130700182</isbn>
+<name>Education</name>
+</book>
+<book><index>47</index>
+<author>Gad Saad</author>
+<notes></notes>
+<isbn>9781621579595</isbn>
+<name>The Parasitic Mind</name>
+</book>
+<book><index>48</index>
+<author>Barack Obama</author>
+<notes></notes>
+<isbn>9781524763169</isbn>
+<name>A Promised Land</name>
+</book>
+<book><index>49</index>
+<author>Christopher Browning</author>
+<notes></notes>
+<isbn>0060190132</isbn>
+<name>Ordinary Men</name>
+</book>
+<book><index>50</index>
+<author>Robert Iger</author>
+<notes></notes>
+<isbn>9780593170984</isbn>
+<name>The Ride of a Lifetime</name>
+</book>
+<book><index>51</index>
+<author>Jordan Peterson</author>
+<notes></notes>
+<isbn>9780241407622</isbn>
+<name>12 More Rules for Life: Beyond Order</name>
+</book>
+<book><index>52</index>
+<author>Richard Feynman</author>
+<notes></notes>
+<isbn>9780738206509</isbn>
+<name>Six Not So Easy Pieces</name>
+</book>
+<book><index>53</index>
+<author>Nicholas Carr</author>
+<notes></notes>
+<isbn>9780393339758</isbn>
+<name>The Shallows</name>
+</book>
+<book><index>54</index>
+<author>Yuval Noah Harari</author>
+<notes></notes>
+<isbn>9780062316097</isbn>
+<name>Sapiens</name>
+</book>
+<book><index>55</index>
+<author>Yuval Noah Harari</author>
+<notes></notes>
+<isbn>9780771038686</isbn>
+<name>Homo Deus</name>
+</book>
+<book><index>56</index>
+<author>Richard Feynman</author>
+<notes></notes>
+<isbn>9780553347845</isbn>
+<name>What do you care what other people think?</name>
+</book>
+<book><index>57</index>
+<author>Richard Feynman</author>
+<notes></notes>
+<isbn>0553346687</isbn>
+<name>Surely You’re Joking Mr. Feynman</name>
+</book>
+<book><index>58</index>
+<author>Titania McGrath</author>
+<notes></notes>
+<isbn>9788491819707</isbn>
+<name>Woke</name>
+</book>
+<book><index>59</index>
+<author>Robert Kiyosaki</author>
+<notes></notes>
+<isbn>9781612680019</isbn>
+<name>Rich Dad Poor Dad</name>
+</book>
+<book><index>60</index>
+<author>Joe Navarro</author>
+<notes></notes>
+<isbn>9780061438295</isbn>
+<name>What Every Body is Saying?</name>
+</book>
+<book><index>61</index>
+<author>David Attenborough</author>
+<notes></notes>
+<isbn>9780316057455</isbn>
+<name>Life on Earth</name>
+</book>
+<book><index>62</index>
+<author>Chriss Voss</author>
+<notes></notes>
+<isbn>9780062407801</isbn>
+<name>Never Split the Difference</name>
+</book>
+<book><index>63</index>
+<author>Chiara Marletto</author>
+<notes></notes>
+<isbn>9780241310946</isbn>
+<name>The Science of Can and Can’t</name>
+</book>
+<book><index>64</index>
+<author>Richard Rhodes</author>
+<notes>*</notes>
+<isbn>9780684813783</isbn>
+<name>The Making of the Atomic Bomb</name>
+</book>
+<book><index>65</index>
+<author>Hannah Arendt</author>
+<notes></notes>
+<isbn>0143039881</isbn>
+<name>Eichmann in Jerusalem</name>
+</book>
+<book><index>66</index>
+<author>Malcom Gladwell</author>
+<notes></notes>
+<isbn>9780241535868</isbn>
+<name>The Bomber Mafia</name>
+</book>
+<book><index>67</index>
+<author>Malcom Gladwell</author>
+<notes></notes>
+<isbn>9780316299220</isbn>
+<name>Talking to Strangers</name>
+</book>
+<book><index>68</index>
+<author>Walter Isaacson</author>
+<notes></notes>
+<isbn>9781594138850</isbn>
+<name>The Innovators</name>
+</book>
+<book><index>69</index>
+<author>Matthew Walker</author>
+<notes></notes>
+<isbn>9781501144325</isbn>
+<name>Why We Sleep</name>
+</book>
+<book><index>70</index>
+<author>Vaclav Smil</author>
+<notes></notes>
+<isbn>9780241454411</isbn>
+<name>Numbers Don’t Lie</name>
+</book>
+<book><index>71</index>
+<author>Abhijit Banerjee & Esther Duflo</author>
+<notes></notes>
+<isbn>9780718193669</isbn>
+<name>Poor Economics</name>
+</book>
+<book><index>72</index>
+<author>David Epstien</author>
+<notes></notes>
+<isbn>9780735214507</isbn>
+<name>Range</name>
+</book>
+<book><index>73</index>
+<author>Abhijit Banerjee & Esther Duflo</author>
+<notes></notes>
+<isbn>9781549128851</isbn>
+<name>Good Economics for Bad Times</name>
+</book>
+<book><index>74</index>
+<author>Steven Pinker</author>
+<notes></notes>
+<isbn>9780393045352</isbn>
+<name>How The Mind Works</name>
+</book>
+<book><index>75</index>
+<author>Steve Strogatz</author>
+<notes></notes>
+<isbn>9781328879981</isbn>
+<name>Infinite Powers</name>
+</book>
+<book><index>76</index>
+<author>Sun Tzu</author>
+<notes></notes>
+<isbn>9781403774644</isbn>
+<name>The Art of War</name>
+</book>
+<book><index>77</index>
+<author>Hector Garcia, Francesc Miralles</author>
+<notes></notes>
+<isbn>9781529401295</isbn>
+<name>Ichigo Ichie</name>
+</book>
+<book><index>78</index>
+<author>Jordan Peterson</author>
+<notes></notes>
+<isbn>9780415922227</isbn>
+<name>Maps of Meaning</name>
+</book>
+<book><index>79</index>
+<author>Kevin Many et al</author>
+<notes></notes>
+<isbn>9780132755108</isbn>
+<name>Making the World Work Better</name>
+</book>
+<book><index>80</index>
+<author>Michael Pollan</author>
+<notes></notes>
+<isbn>9780593296905</isbn>
+<name>This is Your Mind on Plants</name>
+</book>
+<book><index>81</index>
+<author>Richard Feynman</author>
+<notes></notes>
+<isbn>9780141021133</isbn>
+<name>Don’t You Have Time to Think?</name>
+</book>
+<book><index>82</index>
+<author>Morgan Housel</author>
+<notes></notes>
+<isbn>9780857197689</isbn>
+<name>Psychology of Money</name>
+</book>
+<book><index>83</index>
+<author>Brian Christian & Tom Griffiths</author>
+<notes>*</notes>
+<isbn>9780007547999</isbn>
+<name>Algorithms to Live By</name>
+</book>
+<book><index>84</index>
+<author>Herbert Bix</author>
+<notes></notes>
+<isbn>9780060931308</isbn>
+<name>Hirohito</name>
+</book>
+<book><index>85</index>
+<author>Richard Ayoade</author>
+<notes></notes>
+<isbn>9780571316533</isbn>
+<name>Ayoade on Ayoade</name>
+</book>
+<book><index>86</index>
+<author>Meik Wiking</author>
+<notes></notes>
+<isbn>9781470828363</isbn>
+<name>The Little Book of Hygge</name>
+</book>
+<book><index>87</index>
+<author>Meik Wiking</author>
+<notes></notes>
+<isbn>9781538499368</isbn>
+<name>The Little Book of Lykke</name>
+</book>
+<book><index>88</index>
+<author>Joseph Heller</author>
+<notes></notes>
+<isbn>9781451621174</isbn>
+<name>Catch-22</name>
+</book>
+<book><index>89</index>
+<author>Richard Feynman</author>
+<notes></notes>
+<isbn>9780738206509</isbn>
+<name>Six Easy Pieces</name>
+</book>
+<book><index>90</index>
+<author>Herman Hesse</author>
+<notes></notes>
+<isbn>9789586392938</isbn>
+<name>Siddhartha</name>
+</book>
+<book><index>91</index>
+<author>Stephen Hawking</author>
+<notes></notes>
+<isbn>1893224546</isbn>
+<name>The Theory of Everything</name>
+</book>
+<book><index>92</index>
+<author>Joe Navarro</author>
+<notes></notes>
+<isbn>9780061969867</isbn>
+<name>Louder than Words</name>
+</book>
+<book><index>93</index>
+<author>Parag Khanna</author>
+<notes></notes>
+<isbn>9781474604253</isbn>
+<name>Connectography</name>
+</book>
+<book><index>94</index>
+<author>Hayao Miyazaki</author>
+<notes></notes>
+<isbn>9781421561042</isbn>
+<name>Starting Point</name>
+</book>
+<book><index>95</index>
+<author>Andrew McAfee</author>
+<notes></notes>
+<isbn>9781982103576</isbn>
+<name>More From Less</name>
+</book>
+<book><index>96</index>
+<author>Matt Richtel</author>
+<notes></notes>
+<isbn>9780062698490</isbn>
+<name>An Elegant Defense</name>
+</book>
+<book><index>97</index>
+<author>Anthony Beevor</author>
+<notes></notes>
+<isbn>9780141048130</isbn>
+<name>D-Day</name>
+</book>
+<book><index>98</index>
+<author>Thomas Gryta, Ted Mann</author>
+<notes></notes>
+<isbn>9780358567059</isbn>
+<name>Lights Out</name>
+</book>
+<book><index>99</index>
+<author>David Hoffman</author>
+<notes></notes>
+<isbn>9781848312302</isbn>
+<name>Dead Hand</name>
+</book>
+<book><index>100</index>
+<author>G H Hardy</author>
+<notes></notes>
+<isbn>9781107604636</isbn>
+<name>A Mathematicians Apology</name>
+</book>
+</books>

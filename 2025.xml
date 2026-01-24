@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <books><book><index>1</index>
+<isbn>9780593146798</isbn>
+<author>Andy Greenberg</author>
+<name>Sandworm</name>
+<notes></notes>
+</book>
+<book><index>2</index>
+<isbn>9781627791618</isbn>
+<author>Glenn Greenwald</author>
+<name>No Place to Hide</name>
+<notes></notes>
+</book>
+<book><index>3</index>
+<isbn>9780593714027</isbn>
+<author>Scott Galloway</author>
+<name>The Algebra of Wealth</name>
+<notes></notes>
+</book>
+<book><index>4</index>
+<isbn>9781631492228</isbn>
+<author>Mary Beard</author>
+<name>SPQR</name>
+<notes></notes>
+</book>
+<book><index>5</index>
+<isbn>9780770436179</isbn>
+<author>Kim Zetter</author>
+<name>Countdown to Zero Day</name>
+<notes>*</notes>
+</book>
+<book><index>6</index>
+<isbn>9780241636602</isbn>
+<author>Gary Stevenson</author>
+<name>The Trading Game</name>
+<notes></notes>
+</book>
+<book><index>7</index>
+<isbn>9781324050506</isbn>
+<author>Ananyo Bhattacharya</author>
+<name>The Man from the Future</name>
+<notes></notes>
+</book>
+<book><index>8</index>
+<isbn>9781615198474</isbn>
+<author>Tim Marshall</author>
+<name>Prisoners of Geography</name>
+<notes></notes>
+</book>
+<book><index>9</index>
+<isbn>9780805242256</isbn>
+<author>Hannah Arendt</author>
+<name>Origins of Totalitarianism</name>
+<notes></notes>
+</book>
+<book><index>10</index>
+<isbn>9781501168338</isbn>
+<author>Tim Marshall</author>
+<name>Worth Dying For</name>
+<notes></notes>
+</book>
+<book><index>11</index>
+<isbn>9781783966875</isbn>
+<author>Tim Marshall</author>
+<name>Future of Georgaphy</name>
+<notes></notes>
+</book>
+<book><index>12</index>
+<isbn>9780465094257</isbn>
+<author>Sabine Hossenfelder</author>
+<name>Lost in Math</name>
+<notes></notes>
+</book>
+<book><index>13</index>
+<isbn>9781783966028</isbn>
+<author>Tim Marshall</author>
+<name>The Power of Geography</name>
+<notes></notes>
+</book>
+<book><index>14</index>
+<isbn>9780752881614</isbn>
+<author>Marco Pierre White</author>
+<name>The Devil in the Kitchen</name>
+<notes></notes>
+</book>
+<book><index>15</index>
+<isbn>9780425017562</isbn>
+<author>Robert A. Heinlein</author>
+<name>Stranger in a Strange Land</name>
+<notes></notes>
+</book>
+<book><index>16</index>
+<isbn>9780465056965</isbn>
+<author>Serhii Plokhy</author>
+<name>The Last Empire</name>
+<notes></notes>
+</book>
+<book><index>17</index>
+<isbn>9781401303082</isbn>
+<author>Frank Luntz</author>
+<name>Words that Work</name>
+<notes></notes>
+</book>
+<book><index>18</index>
+<isbn>9780593728697</isbn>
+<author>Jacinda Ardern</author>
+<name>A Different Kind of Power</name>
+<notes>*</notes>
+</book>
+<book><index>19</index>
+<isbn>9780141034645</isbn>
+<author>Steven Pinker</author>
+<name>The Better Angels of Our Nature</name>
+<notes></notes>
+</book>
+<book><index>20</index>
+<isbn>0140277447</isbn>
+<author>Iris Chang</author>
+<name>The Rape of Nanking</name>
+<notes></notes>
+</book>
+<book><index>21</index>
+<isbn>9780593801581</isbn>
+<author>Bill Gates</author>
+<name>Source Code</name>
+<notes></notes>
+</book>
+<book><index>22</index>
+<isbn>9781250756121</isbn>
+<author>Anna Malaika Tubbs</author>
+<name>Three Mothers</name>
+<notes>*</notes>
+</book>
+<book><index>23</index>
+<isbn>0441013597</isbn>
+<author>Frank Herbert</author>
+<name>Dune</name>
+<notes></notes>
+</book>
+<book><index>24</index>
+<isbn>9780441172696</isbn>
+<author>Frank Herbert</author>
+<name>Dune: Messiah</name>
+<notes></notes>
+</book>
+<book><index>25</index>
+<isbn>9780441104024</isbn>
+<author>Frank Herbert</author>
+<name>Dune: Children of Dune</name>
+<notes></notes>
+</book>
+<book><index>26</index>
+<isbn>9788184007558</isbn>
+<author>Pavitra Kumar</author>
+<name>Bhujia Barons</name>
+<notes></notes>
+</book>
+<book><index>27</index>
+<isbn>9780593655955</isbn>
+<author>Arnold Schwarzenegger</author>
+<name>Be Useful: Seven Tools for Life</name>
+<notes></notes>
+</book>
+<book><index>28</index>
+<isbn>9788125015659</isbn>
+<author>Satyajit Ray</author>
+<name>Our Films, Their Films</name>
+<notes></notes>
+</book>
+<book><index>29</index>
+<isbn>9781781858929</isbn>
+<author>Dan Jones</author>
+<name>The Templars</name>
+<notes></notes>
+</book>
+<book><index>30</index>
+<isbn>9780140185850</isbn>
+<author>Yevgeny Zamyatin</author>
+<name>We</name>
+<notes></notes>
+</book>
+<book><index>31</index>
+<isbn>9781035023677</isbn>
+<author>Time Berners-Lee</author>
+<name>This is for Everyone</name>
+<notes></notes>
+</book>
+<book><index>32</index>
+<isbn>9781784879693</isbn>
+<author>Kurt Vonnegut</author>
+<name>Slaughterhouse-Five</name>
+<notes></notes>
+</book>
+<book><index>33</index>
+<isbn>9781847927033</isbn>
+<author>Alexei Navalny</author>
+<name>Patriot</name>
+<notes></notes>
+</book>
+<book><index>34</index>
+<isbn>9780008299781</isbn>
+<author>David De Jong</author>
+<name>Nazi Billionaires</name>
+<notes></notes>
+</book>
+<book><index>35</index>
+<isbn>9780140132700</isbn>
+<author>Salman Rushdie</author>
+<name>Midnight's Children</name>
+<notes></notes>
+</book>
+<book><index>36</index>
+<isbn>9781473695702</isbn>
+<author>Marc David Baer</author>
+<name>The Ottomans</name>
+<notes></notes>
+</book>
+<book><index>37</index>
+<isbn>9780061743528</isbn>
+<author>Harper Lee</author>
+<name>To Kill a Mockingbird</name>
+<notes></notes>
+</book>
+<book><index>38</index>
+<isbn>9789391165055</isbn>
+<author>Anirudh Kanisetti</author>
+<name>Lords of the Deccan</name>
+<notes></notes>
+</book>
+<book><index>39</index>
+<isbn>9780670084982</isbn>
+<author>Thomas Timberg</author>
+<name>The Marwaris</name>
+<notes></notes>
+</book>
+<book><index>40</index>
+<isbn>9780449219775</isbn>
+<author>William Shirer</author>
+<name>Rise and Fall of the Third Reich</name>
+<notes></notes>
+</book>
+<book><index>41</index>
+<isbn>9781684415625</isbn>
+<author>Venki Ramakrishnan</author>
+<name>Gene Machine</name>
+<notes></notes>
+</book>
+<book><index>42</index>
+<isbn>9781668031247</isbn>
+<author>Charles Piller</author>
+<name>Doctored</name>
+<notes></notes>
+</book>
+<book><index>43</index>
+<isbn>9780688172176</isbn>
+<author>VS Ramachandran</author>
+<name>Phantoms in the Brain</name>
+<notes>*</notes>
+</book>
+<book><index>44</index>
+<isbn>9781529925531</isbn>
+<author>Lewis Dartnell</author>
+<name>Being Human</name>
+<notes></notes>
+</book>
+<book><index>45</index>
+<isbn>9780593804148</isbn>
+<author>Omar El Akkad</author>
+<name>One Day, Everyone Will Have Always Been Against This</name>
+<notes></notes>
+</book>
+<book><index>46</index>
+<isbn>9780525556572</isbn>
+<author>John Green</author>
+<name>Everything is Tuberculosis</name>
+<notes></notes>
+</book>
+<book><index>47</index>
+<isbn>9781668053393</isbn>
+<author>Patrick McGee</author>
+<name>Apple in China</name>
+<notes>*</notes>
+</book>
+<book><index>48</index>
+<isbn>9781405964098</isbn>
+<author>John Steinbeck</author>
+<name>Of Mice and Men</name>
+<notes></notes>
+</book>
+<book><index>49</index>
+<isbn>0886825016</isbn>
+<author>Ursula Le Guin</author>
+<name>The Ones Who Walk Away from Omelas</name>
+<notes></notes>
+</book>
+<book><index>50</index>
+<isbn>9783956763182</isbn>
+<author>Nathuram Godse</author>
+<name>Why I Killed Gandhi</name>
+<notes></notes>
+</book>
+</books>

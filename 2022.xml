@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <books><book><index>1</index>
+<notes></notes>
+<author>Malcolm Gladwell</author>
+<name>Blink</name>
+<isbn>9781598200874</isbn>
+</book>
+<book><index>2</index>
+<notes></notes>
+<author>Malcolm Gladwell</author>
+<name>David & Goliath</name>
+<isbn>9782894729816</isbn>
+</book>
+<book><index>3</index>
+<notes></notes>
+<author>Richard Dawkins</author>
+<name>Outgrowing God</name>
+<isbn>9781447223917</isbn>
+</book>
+<book><index>4</index>
+<notes></notes>
+<author>Michael Pollan</author>
+<name>Cooked</name>
+<isbn>9781846147500</isbn>
+</book>
+<book><index>5</index>
+<notes></notes>
+<author>Malcolm Gladwell</author>
+<name>What the Dog Saw</name>
+<isbn>9780316076326</isbn>
+</book>
+<book><index>6</index>
+<notes></notes>
+<author>Malcolm Gladwell</author>
+<name>Tipping Point</name>
+<isbn>0316346624</isbn>
+</book>
+<book><index>7</index>
+<notes></notes>
+<author>Richard Dawkins</author>
+<name>The Greatest Show on Earth</name>
+<isbn>9781416594789</isbn>
+</book>
+<book><index>8</index>
+<notes></notes>
+<author>Jon Ronson</author>
+<name>Lost at Sea</name>
+<isbn>9781787631212</isbn>
+</book>
+<book><index>9</index>
+<notes></notes>
+<author>A Thousand Brains</author>
+<name>Jeff Hawkins</name>
+<isbn>9781541675797</isbn>
+</book>
+<book><index>10</index>
+<notes></notes>
+<author>Vaclav Smil</author>
+<name>Energy</name>
+<isbn>9781851684526</isbn>
+</book>
+<book><index>11</index>
+<notes></notes>
+<author>Michael Pollan</author>
+<name>How To Change Your Mind</name>
+<isbn>9780241294222</isbn>
+</book>
+<book><index>12</index>
+<notes></notes>
+<author>Daniel Kahneman et al.</author>
+<name>Noise</name>
+<isbn>9780316451406</isbn>
+</book>
+<book><index>13</index>
+<notes></notes>
+<author>Richard Dawkins</author>
+<name>The Blind Watchmaker</name>
+<isbn>0393022161</isbn>
+</book>
+<book><index>14</index>
+<notes></notes>
+<author>Haruki Murakami</author>
+<name>Men Without Women</name>
+<isbn>9780385689441</isbn>
+</book>
+<book><index>15</index>
+<notes></notes>
+<author>Richard Dawkins</author>
+<name>The Magic of Reality</name>
+<isbn>9780593066126</isbn>
+</book>
+<book><index>16</index>
+<notes>*</notes>
+<author>Edward Snowden</author>
+<name>Permanent Record</name>
+<isbn>9781250237231</isbn>
+</book>
+<book><index>17</index>
+<notes></notes>
+<author>Michael Pollan</author>
+<name>The Omnivore’s Dilemma</name>
+<isbn>9780786289523</isbn>
+</book>
+<book><index>18</index>
+<notes>*</notes>
+<author>Trevor Noah</author>
+<name>Born a Crime</name>
+<isbn>9781473635289</isbn>
+</book>
+<book><index>19</index>
+<notes>*</notes>
+<author>Walter Isaacson</author>
+<name>Steve Jobs</name>
+<isbn>9781501127625</isbn>
+</book>
+<book><index>20</index>
+<notes></notes>
+<author>Bastian Obermayer, Fredrik Obermaier</author>
+<name>The Panama Papers</name>
+<isbn>9781543623833</isbn>
+</book>
+<book><index>21</index>
+<notes></notes>
+<author>Richard Dawkins</author>
+<name>The Selfish Gene</name>
+<isbn>0195200004</isbn>
+</book>
+<book><index>22</index>
+<notes>*</notes>
+<author>Raghuram Rajan</author>
+<name>Fault Lines</name>
+<isbn>9789350291733</isbn>
+</book>
+<book><index>23</index>
+<notes></notes>
+<author>Thomas Piketty</author>
+<name>Capital in 21st Century</name>
+<isbn>9780674430006</isbn>
+</book>
+<book><index>24</index>
+<notes></notes>
+<author>Tom Burgis</author>
+<name>Kleptopia</name>
+<isbn>9780062883667</isbn>
+</book>
+<book><index>25</index>
+<notes></notes>
+<author>Douglas Adams</author>
+<name>The Ultimate Hitchhikers Guide to the Galaxy</name>
+<isbn>9780385365925</isbn>
+</book>
+<book><index>26</index>
+<notes></notes>
+<author>Nicolas Nissim Taleb</author>
+<name>Fooled by Randomness</name>
+<isbn>0812975219</isbn>
+</book>
+<book><index>27</index>
+<notes></notes>
+<author>Shashi Tharoor</author>
+<name>The Inglorious Empire</name>
+<isbn>9781849048088</isbn>
+</book>
+<book><index>28</index>
+<notes></notes>
+<author>William Taubman</author>
+<name>Gorbachev</name>
+<isbn>9780393356205</isbn>
+</book>
+<book><index>29</index>
+<notes></notes>
+<author>Nicolas Nissim Taleb</author>
+<name>The Black Swan</name>
+<isbn>9780141034591</isbn>
+</book>
+<book><index>30</index>
+<notes></notes>
+<author>Phil Knight</author>
+<name>Shoe Dog</name>
+<isbn>9781501135910</isbn>
+</book>
+<book><index>31</index>
+<notes></notes>
+<author>Haruki Murakami</author>
+<name>Kafka on the Shore</name>
+<isbn>9781784877989</isbn>
+</book>
+<book><index>32</index>
+<notes></notes>
+<author>Edwin Abbott Abbott</author>
+<name>Flatland</name>
+<isbn>9780140076158</isbn>
+</book>
+<book><index>33</index>
+<notes></notes>
+<author>George S Clason</author>
+<name>Richest Man in Babylon</name>
+<isbn>9780452267251</isbn>
+</book>
+<book><index>34</index>
+<notes></notes>
+<author>Sarah Harvey</author>
+<name>Kaizen</name>
+<isbn>9781529005356</isbn>
+</book>
+<book><index>35</index>
+<notes></notes>
+<author>William Strunk</author>
+<name>The Elements of Style</name>
+<isbn>9781682040133</isbn>
+</book>
+<book><index>36</index>
+<notes></notes>
+<author>Bill Gates</author>
+<name>How to Prevent the Next Pandemic</name>
+<isbn>9780593534489</isbn>
+</book>
+<book><index>37</index>
+<notes></notes>
+<author>Matt Parker</author>
+<name>Things to Make and Do in the Fourth Dimension</name>
+<isbn>9781846148590</isbn>
+</book>
+<book><index>38</index>
+<notes></notes>
+<author>Vaclav Smil</author>
+<name>How the World Really Works</name>
+<isbn>9780593297063</isbn>
+</book>
+<book><index>39</index>
+<notes></notes>
+<author>George Polya</author>
+<name>How to Solve it</name>
+<isbn>9780691119663</isbn>
+</book>
+<book><index>40</index>
+<notes></notes>
+<author>Peter Wohlleben</author>
+<name>The Hidden lives of Trees</name>
+<isbn>9781771642484</isbn>
+</book>
+<book><index>41</index>
+<notes></notes>
+<author>Eric Jorgenson</author>
+<name>The Almanack of Naval Ravikant</name>
+<isbn>9781544514215</isbn>
+</book>
+<book><index>42</index>
+<notes></notes>
+<author>Erik Conway</author>
+<name>Merchants of Doubt</name>
+<isbn>9781596916104</isbn>
+</book>
+<book><index>43</index>
+<notes>*</notes>
+<author>James Gleick</author>
+<name>Chaos</name>
+<isbn>0140092501</isbn>
+</book>
+<book><index>44</index>
+<notes></notes>
+<author>Siddhartha Mukherjee</author>
+<name>The Gene</name>
+<isbn>9781508211389</isbn>
+</book>
+<book><index>45</index>
+<notes></notes>
+<author>Anna Lembke</author>
+<name>Dopamine Nation</name>
+<isbn>9781524746728</isbn>
+</book>
+<book><index>46</index>
+<notes></notes>
+<author>Sunil Gupta, Sunetra Choudhury</author>
+<name>Black Warrant</name>
+<isbn>9788194206859</isbn>
+</book>
+<book><index>47</index>
+<notes></notes>
+<author>Bill Browder</author>
+<name>Red Notice</name>
+<isbn>9780552170321</isbn>
+</book>
+<book><index>48</index>
+<notes></notes>
+<author>Neil Degrasse Tyson</author>
+<name>Starry Messenger</name>
+<isbn>9781250861504</isbn>
+</book>
+<book><index>49</index>
+<notes></notes>
+<author>Randall Munroe</author>
+<name>What If?</name>
+<isbn>9781848549562</isbn>
+</book>
+<book><index>50</index>
+<notes></notes>
+<author>Peter Theil</author>
+<name>Zero to One</name>
+<isbn>9780804139298</isbn>
+</book>
+</books>

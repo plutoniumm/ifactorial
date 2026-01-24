@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+  <plist version="1.0">
+  <array><dict>
+
+      <key>index</key>
+      <string>1</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>C.S. Lewis</string>
+      
+      <key>name</key>
+      <string>The Great Divorce</string>
+      
+      <key>isbn</key>
+      <string>9780060652951</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>2</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>C.S. Lewis</string>
+      
+      <key>name</key>
+      <string>Out of the Silent Planet</string>
+      
+      <key>isbn</key>
+      <string>9780684823805</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>3</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>C.S. Lewis</string>
+      
+      <key>name</key>
+      <string>Perelandra</string>
+      
+      <key>isbn</key>
+      <string>9780025708402</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>4</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Isaac Asimov</string>
+      
+      <key>name</key>
+      <string>I, Robot</string>
+      
+      <key>isbn</key>
+      <string>9780553803709</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>5</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Asimov, Robert Silverberg</string>
+      
+      <key>name</key>
+      <string>The Positronic Man</string>
+      
+      <key>isbn</key>
+      <string>9780385263429</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>6</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Isaac Asimov</string>
+      
+      <key>name</key>
+      <string>Nemesis</string>
+      
+      <key>isbn</key>
+      <string>9782724269123</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>7</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Isaac Asimov</string>
+      
+      <key>name</key>
+      <string>The Caves of Steel</string>
+      
+      <key>isbn</key>
+      <string>0553293400</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>8</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Isaac Asimov</string>
+      
+      <key>name</key>
+      <string>The Naked Sun</string>
+      
+      <key>isbn</key>
+      <string>9780449238059</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>9</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Isaac Asimov</string>
+      
+      <key>name</key>
+      <string>Robots of Dawn</string>
+      
+      <key>isbn</key>
+      <string>9780345315717</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>10</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Isaac Asimov</string>
+      
+      <key>name</key>
+      <string>Robots & The Empire</string>
+      
+      <key>isbn</key>
+      <string>9780345337696</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>11</string>
+      
+      <key>notes</key>
+      <string>*</string>
+      
+      <key>author</key>
+      <string>Paul Rosolie</string>
+      
+      <key>name</key>
+      <string>Mother of God</string>
+      
+      <key>isbn</key>
+      <string>9780062259516</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>12</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Isaac Asimov</string>
+      
+      <key>name</key>
+      <string>The Stars like Dust</string>
+      
+      <key>isbn</key>
+      <string>9780765319159</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>13</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Isaac Asimov</string>
+      
+      <key>name</key>
+      <string>The Currents of Space</string>
+      
+      <key>isbn</key>
+      <string>9780765319166</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>14</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Franz Kafka</string>
+      
+      <key>name</key>
+      <string>The Metamorphosis</string>
+      
+      <key>isbn</key>
+      <string>9781619490048</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>15</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>C.S. Lewis</string>
+      
+      <key>name</key>
+      <string>That Hideous Strength</string>
+      
+      <key>isbn</key>
+      <string>9780743234924</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>16</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Isaac Asimov</string>
+      
+      <key>name</key>
+      <string>Pebble in the Sky</string>
+      
+      <key>isbn</key>
+      <string>9780345311962</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>17</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Isaac Asimov</string>
+      
+      <key>name</key>
+      <string>Prelude to Foundation</string>
+      
+      <key>isbn</key>
+      <string>9782724246407</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>18</string>
+      
+      <key>notes</key>
+      <string>*</string>
+      
+      <key>author</key>
+      <string>Vladimir Lenin</string>
+      
+      <key>name</key>
+      <string>Imperialism, the Highest Stage of Capitalism</string>
+      
+      <key>isbn</key>
+      <string>9781614271901</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>19</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>B. R. Ambedkar</string>
+      
+      <key>name</key>
+      <string>Annihilation of Caste</string>
+      
+      <key>isbn</key>
+      <string>9781074283759</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>20</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Anthony Burgess</string>
+      
+      <key>name</key>
+      <string>A Clockwork Orange</string>
+      
+      <key>isbn</key>
+      <string>9781856132664</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>21</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Isaac Asimov</string>
+      
+      <key>name</key>
+      <string>Forward the Foundation</string>
+      
+      <key>isbn</key>
+      <string>0553404881</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>22</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Isaac Asimov</string>
+      
+      <key>name</key>
+      <string>Foundation</string>
+      
+      <key>isbn</key>
+      <string>9780553382570</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>23</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Isaac Asimov</string>
+      
+      <key>name</key>
+      <string>Foundation and Empire</string>
+      
+      <key>isbn</key>
+      <string>9780380397013</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>24</string>
+      
+      <key>notes</key>
+      <string>*</string>
+      
+      <key>author</key>
+      <string>Miguel Cervantes</string>
+      
+      <key>name</key>
+      <string>Don Quixote</string>
+      
+      <key>isbn</key>
+      <string>9781587266171</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>25</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>H. G. Wells</string>
+      
+      <key>name</key>
+      <string>The Island of Doctor Moreau</string>
+      
+      <key>isbn</key>
+      <string>0486290271</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>26</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>H. G. Wells</string>
+      
+      <key>name</key>
+      <string>The War of the Worlds</string>
+      
+      <key>isbn</key>
+      <string>9780141026008</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>27</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>H. G. Wells</string>
+      
+      <key>name</key>
+      <string>The Time Machine</string>
+      
+      <key>isbn</key>
+      <string>9789176371381</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>28</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>H. G. Wells</string>
+      
+      <key>name</key>
+      <string>The Sleeper Awakes</string>
+      
+      <key>isbn</key>
+      <string>9780141441061</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>29</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>James A. Corey</string>
+      
+      <key>name</key>
+      <string>Leviathan Wakes</string>
+      
+      <key>isbn</key>
+      <string>9780356517162</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>30</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>James A. Corey</string>
+      
+      <key>name</key>
+      <string>Caliban's War</string>
+      
+      <key>isbn</key>
+      <string>9781841499901</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>31</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>James A. Corey</string>
+      
+      <key>name</key>
+      <string>Abaddon’s Gate</string>
+      
+      <key>isbn</key>
+      <string>9780316129077</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>32</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>H. G. Wells</string>
+      
+      <key>name</key>
+      <string>The World Set Free</string>
+      
+      <key>isbn</key>
+      <string>080329820X</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>33</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>H. G. Wells</string>
+      
+      <key>name</key>
+      <string>The First Men in the Moon</string>
+      
+      <key>isbn</key>
+      <string>0192828282</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>34</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Isaac Asimov</string>
+      
+      <key>name</key>
+      <string>Second Foundation</string>
+      
+      <key>isbn</key>
+      <string>9780008117511</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>35</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Isaac Asimov</string>
+      
+      <key>name</key>
+      <string>Foundation’s Edge</string>
+      
+      <key>isbn</key>
+      <string>9780008117528</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>36</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Philip K Dick</string>
+      
+      <key>name</key>
+      <string>The Man in the High Castle</string>
+      
+      <key>isbn</key>
+      <string>9780544817289</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>37</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Han Kang</string>
+      
+      <key>name</key>
+      <string>The Vegetarian</string>
+      
+      <key>isbn</key>
+      <string>9780553448191</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>38</string>
+      
+      <key>notes</key>
+      <string>*</string>
+      
+      <key>author</key>
+      <string>Isaac Asimov</string>
+      
+      <key>name</key>
+      <string>Foundation and Earth</string>
+      
+      <key>isbn</key>
+      <string>9780586071106</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>39</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Han Kang</string>
+      
+      <key>name</key>
+      <string>Greek Lessons</string>
+      
+      <key>isbn</key>
+      <string>9780593595275</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>40</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Homer</string>
+      
+      <key>name</key>
+      <string>The Illiad</string>
+      
+      <key>isbn</key>
+      <string>9781324001805</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>41</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Homer</string>
+      
+      <key>name</key>
+      <string>The Odyssey</string>
+      
+      <key>isbn</key>
+      <string>9780131830752</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>42</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Albert Camus</string>
+      
+      <key>name</key>
+      <string>The First Man</string>
+      
+      <key>isbn</key>
+      <string>0679439374</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>43</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Fyodor Dostoyevsky</string>
+      
+      <key>name</key>
+      <string>The Brothers Karamazov</string>
+      
+      <key>isbn</key>
+      <string>9780852291634</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>44</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Fyodor Dostoyevsky</string>
+      
+      <key>name</key>
+      <string>The Idiot</string>
+      
+      <key>isbn</key>
+      <string>9781862075931</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>45</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Albert Camus</string>
+      
+      <key>name</key>
+      <string>The Myth of Sisyphus</string>
+      
+      <key>isbn</key>
+      <string>0679733736</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>46</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>James Joyce</string>
+      
+      <key>name</key>
+      <string>Ulysses</string>
+      
+      <key>isbn</key>
+      <string>9798682325047</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>47</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Chandrachur Ghose</string>
+      
+      <key>name</key>
+      <string>India: The Birth of a Republic</string>
+      
+      <key>isbn</key>
+      <string>9780670097104</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>48</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Joseph Menn</string>
+      
+      <key>name</key>
+      <string>Cult of the Dead Cow</string>
+      
+      <key>isbn</key>
+      <string>9781541762381</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>49</string>
+      
+      <key>notes</key>
+      <string>*</string>
+      
+      <key>author</key>
+      <string>Michael Riordan, Lillian Hoddeson</string>
+      
+      <key>name</key>
+      <string>Crystal Fire</string>
+      
+      <key>isbn</key>
+      <string>0393041247</string>
+      </dict><dict>
+
+      <key>index</key>
+      <string>50</string>
+      
+      <key>notes</key>
+      <string></string>
+      
+      <key>author</key>
+      <string>Andrew Roberts</string>
+      
+      <key>name</key>
+      <string>Napoleon</string>
+      
+      <key>isbn</key>
+      <string>9788490613214</string>
+      </dict></array>
+</plist>

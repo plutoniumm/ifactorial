@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+  <plist version="1.0">
+  <array><dict>
+
+      <key>index</key>
+      <string>1</string>
+      
+      <key>isbn</key>
+      <string>inf</string>
+      
+      <key>author</key>
+      <string>Check back next year</string>
+      
+      <key>name</key>
+      <string>Unknown as yet</string>
+      
+      <key>notes</key>
+      <string></string>
+      </dict></array>
+</plist>

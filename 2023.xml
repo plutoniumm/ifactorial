@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <books><book><index>1</index>
+<notes>*</notes>
+<author>Paul Kalanithi</author>
+<name>When Breath becomes Air</name>
+<isbn>9780812988406</isbn>
+</book>
+<book><index>2</index>
+<notes></notes>
+<author>Lynne Murphy</author>
+<name>The Prodigal Tongue</name>
+<isbn>9781977303356</isbn>
+</book>
+<book><index>3</index>
+<notes></notes>
+<author>David Graeber</author>
+<name>Bullshit Jobs</name>
+<isbn>9781501143335</isbn>
+</book>
+<book><index>4</index>
+<notes></notes>
+<author>James Comey</author>
+<name>A Higher Loyalty</name>
+<isbn>9781529003130</isbn>
+</book>
+<book><index>5</index>
+<notes></notes>
+<author>Siddhartha Mukherjee</author>
+<name>The Song of the Cell</name>
+<isbn>9781982117375</isbn>
+</book>
+<book><index>6</index>
+<notes></notes>
+<author>Michael Lewis</author>
+<name>The Undoing Project</name>
+<isbn>9781410496454</isbn>
+</book>
+<book><index>7</index>
+<notes></notes>
+<author>Eliot Higgins</author>
+<name>We are Bellingcat</name>
+<isbn>9781635577303</isbn>
+</book>
+<book><index>8</index>
+<notes></notes>
+<author>Sebastian Mallaby</author>
+<name>The Power Law</name>
+<isbn>9780525559993</isbn>
+</book>
+<book><index>9</index>
+<notes>*</notes>
+<author>Siddhartha Mukherjee</author>
+<name>The Emperor of all Maladies</name>
+<isbn>9781439107959</isbn>
+</book>
+<book><index>10</index>
+<notes></notes>
+<author>Gregory Zuckerman</author>
+<name>The Man Who Solved the Market</name>
+<isbn>9780241981344</isbn>
+</book>
+<book><index>11</index>
+<notes></notes>
+<author>Adam Rutherford, Hannah Fry</author>
+<name>Rutherford & Fry's Complete Guide to Absolutely Everything</name>
+<isbn>9780393881578</isbn>
+</book>
+<book><index>12</index>
+<notes></notes>
+<author>Steven Pinker</author>
+<name>Rationality</name>
+<isbn>9780525561996</isbn>
+</book>
+<book><index>13</index>
+<notes></notes>
+<author>Nathan Lents</author>
+<name>Human Errors</name>
+<isbn>9781684413324</isbn>
+</book>
+<book><index>14</index>
+<notes></notes>
+<author>Shoshana Zuboff</author>
+<name>The Age of Surveillance Capitalism</name>
+<isbn>9781610395694</isbn>
+</book>
+<book><index>15</index>
+<notes></notes>
+<author>Nicolas Nissim Taleb</author>
+<name>Skin in the Game</name>
+<isbn>9780241300657</isbn>
+</book>
+<book><index>16</index>
+<notes></notes>
+<author>Dalai Lama</author>
+<name>Freedom in Exile</name>
+<isbn>9780349104621</isbn>
+</book>
+<book><index>17</index>
+<notes></notes>
+<author>Burton Malkiel</author>
+<name>A Random Walk Down Wall Street</name>
+<isbn>9780393320404</isbn>
+</book>
+<book><index>18</index>
+<notes></notes>
+<author>Robert Greene</author>
+<name>48 Rules of Power</name>
+<isbn>0140280197</isbn>
+</book>
+<book><index>19</index>
+<notes></notes>
+<author>Jonathan Haidt</author>
+<name>The Righteous Mind</name>
+<isbn>9780307377906</isbn>
+</book>
+<book><index>20</index>
+<notes></notes>
+<author>Ginni Rometty</author>
+<name>Good Power</name>
+<isbn>9781647823221</isbn>
+</book>
+<book><index>21</index>
+<notes></notes>
+<author>Nick Lane</author>
+<name>The Vital Question</name>
+<isbn>9781781250372</isbn>
+</book>
+<book><index>22</index>
+<notes></notes>
+<author>Randall Munroe</author>
+<name>What If? 2</name>
+<isbn>9780525537113</isbn>
+</book>
+<book><index>23</index>
+<notes>*</notes>
+<author>Chelsea Manning</author>
+<name>Readme.txt</name>
+<isbn>9781250872449</isbn>
+</book>
+<book><index>24</index>
+<notes></notes>
+<author>Bjorn Lomborg</author>
+<name>False Alarm</name>
+<isbn>9781541647473</isbn>
+</book>
+<book><index>25</index>
+<notes></notes>
+<author>James Scott</author>
+<name>Rampage</name>
+<isbn>9780393357561</isbn>
+</book>
+<book><index>26</index>
+<notes></notes>
+<author>Bogdanich & Forsythe</author>
+<name>When McKinsey comes to Town</name>
+<isbn>9780385546232</isbn>
+</book>
+<book><index>27</index>
+<notes></notes>
+<author>Zohar & Mishal</author>
+<name>Mossad</name>
+<isbn>9780062123411</isbn>
+</book>
+<book><index>28</index>
+<notes>*</notes>
+<author>Bjorn Lomborg</author>
+<name>The Skeptical Environmentalist</name>
+<isbn>9780521010689</isbn>
+</book>
+<book><index>29</index>
+<notes></notes>
+<author>Sokal & Bricmont</author>
+<name>Fashionable Nonsense</name>
+<isbn>9780312204075</isbn>
+</book>
+<book><index>30</index>
+<notes></notes>
+<author>Seth Stephens-Davidowitz</author>
+<name>Don't Trust Your Gut</name>
+<isbn>9781526605092</isbn>
+</book>
+<book><index>31</index>
+<notes></notes>
+<author>Raghuram Rajan</author>
+<name>The Third Pillar</name>
+<isbn>9780525558316</isbn>
+</book>
+<book><index>32</index>
+<notes></notes>
+<author>Hayao Miyazaki</author>
+<name>Turning Point</name>
+<isbn>9781421560908</isbn>
+</book>
+<book><index>33</index>
+<notes></notes>
+<author>Walter Isaacson</author>
+<name>Einstein: His Life and Universe</name>
+<isbn>9780739489031</isbn>
+</book>
+<book><index>34</index>
+<notes></notes>
+<author>Hussain Zaidi</author>
+<name>Dongri to Dubai</name>
+<isbn>9788174368942</isbn>
+</book>
+<book><index>35</index>
+<notes></notes>
+<author>Molly Bloom</author>
+<name>Molly’s Game</name>
+<isbn>9780062838582</isbn>
+</book>
+<book><index>36</index>
+<notes></notes>
+<author>Adam Rutherford</author>
+<name>A Brief History of Everyone Who Ever Lived</name>
+<isbn>9780297609377</isbn>
+</book>
+<book><index>37</index>
+<notes></notes>
+<author>Dubner and Levitt</author>
+<name>Freakonomics</name>
+<isbn>9780060731328</isbn>
+</book>
+<book><index>38</index>
+<notes></notes>
+<author>Jocko Willink</author>
+<name>Extreme Ownership</name>
+<isbn>9781250270962</isbn>
+</book>
+<book><index>39</index>
+<notes></notes>
+<author>Immanuel Kant</author>
+<name>Metaphysics of Morals</name>
+<isbn>9781434605160</isbn>
+</book>
+<book><index>40</index>
+<notes></notes>
+<author>Friedrich Nietzsche</author>
+<name>God is Dead. God Remains Dead. And We Have Killed Him</name>
+<isbn>9780241472842</isbn>
+</book>
+<book><index>41</index>
+<notes></notes>
+<author>Harish Bhat</author>
+<name>#Tatastories</name>
+<isbn>9780670095322</isbn>
+</book>
+<book><index>42</index>
+<notes></notes>
+<author>Gene Kranz</author>
+<name>Failure Is Not an Option</name>
+<isbn>9780743214476</isbn>
+</book>
+<book><index>43</index>
+<notes></notes>
+<author>Frans de Waal</author>
+<name>Are We Smart Enough to Know How Smart Animals Are</name>
+<isbn>9781504712217</isbn>
+</book>
+<book><index>44</index>
+<notes></notes>
+<author>Matthew Black</author>
+<name>Operation Underworld</name>
+<isbn>9780806542164</isbn>
+</book>
+<book><index>45</index>
+<notes></notes>
+<author>Jonn Elledge</author>
+<name>A History of the World in 47 Borders</name>
+<isbn>9781891011573</isbn>
+</book>
+<book><index>46</index>
+<notes></notes>
+<author>Roger Penrose</author>
+<name>The Road to Reality</name>
+<isbn>9780099440680</isbn>
+</book>
+<book><index>47</index>
+<notes></notes>
+<author>Plato</author>
+<name>Republic</name>
+<isbn>9781534626911</isbn>
+</book>
+<book><index>48</index>
+<notes></notes>
+<author>Serhii Plokhy</author>
+<name>The Last Empire</name>
+<isbn>9780465056965</isbn>
+</book>
+<book><index>49</index>
+<notes>*</notes>
+<author>Benjamin Graham</author>
+<name>The Intelligent Investor</name>
+<isbn>9780062312686</isbn>
+</book>
+<book><index>50</index>
+<notes></notes>
+<author>Malcom Gladwell</author>
+<name>Revenge of the Tipping Point</name>
+<isbn>9780316575805</isbn>
+</book>
+</books>
