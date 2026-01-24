@@ -7,7 +7,6 @@
   import { onMount } from "svelte";
   import "./code.css";
 
-  let pages = [2021, 2022, 2023, 2024, 2025];
   let tabs = [];
 
   async function C(code, lang) {
@@ -102,53 +101,10 @@ for (int i = 0; i < books.getLength(); i++) {
   {@html _interface}
 
   <Tabs {tabs}></Tabs>
-
-  Pages available in API formats are
-  <table class="rx5 w-100">
-    <tr>
-      <th>Year</th>
-      <th>JSON</th>
-      <th>CSV</th>
-      <th>XML</th>
-    </tr>
-    {#each pages as page}
-      <tr>
-        <td>{page}</td>
-        <td><a href="/{page}.json">JSON</a></td>
-        <td><a href="/{page}.csv">CSV</a></td>
-        <td><a href="/{page}.xml">XML</a></td>
-      </tr>
-    {/each}
-  </table>
 </main>
 
 <style lang="scss">
   main {
     line-height: 1.5;
-  }
-
-  table {
-    border-collapse: collapse;
-    margin-top: 1rem;
-
-    th,
-    td {
-      border: 1px solid #ccc;
-      padding: 0.5rem;
-      text-align: left;
-    }
-
-    th {
-      background-color: #f4f4f4;
-    }
-  }
-
-  a {
-    color: #0070f3;
-    text-decoration: none;
-
-    &:hover {
-      text-decoration: underline;
-    }
   }
 </style>

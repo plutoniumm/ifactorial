@@ -96,6 +96,7 @@
     <div class="f j-ct al-ct p10 fw7" style="font-size: 4em;">You win!</div>
   {/if}
 
+  <!-- svelte-ignore a11y_no_static_element_interactions -->
   <div
     class="grid p0 mx-a"
     style="--dim:{scale};--wall: {WALL}px;"

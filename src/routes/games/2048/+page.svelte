@@ -13,6 +13,7 @@
   <div class="heading">
     <h1 class="title">2<sup>17</sup></h1>
 
+    <!-- svelte-ignore a11y_consider_explicit_label -->
     <button id="undo-button">
       <svg
         viewBox="0 0 32 32"
@@ -26,6 +27,7 @@
         />
       </svg>
     </button>
+    <!-- svelte-ignore a11y_consider_explicit_label -->
     <button id="restart-button">
       <svg viewBox="0 0 32 32" width="28" height="28" fill="none" stroke="#fff">
         <path d="M16 2 L2 16 16 30 16 16 30 30 30 2 16 16 Z" />
