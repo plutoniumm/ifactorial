@@ -7,9 +7,9 @@
 </script>
 
 <section class="f fw j-ar">
-	{#each files as round, index}
+	{#each files as round}
 		<Card url="/{round}" name={round}>
-			<Mondrian seed={index} height={150} width={300} />
+			<Mondrian seed={round - 2021} height={150} width={300} />
 		</Card>
 	{/each}
 </section>

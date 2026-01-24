@@ -3,10 +3,8 @@
 <p>The Bookmaker <br/> A badly made Excel Sheet<p>
 </div>
 
-## What is this?
-I read some books. People like some of them. So this is a list of books I read year on year. Check it out [Here](https://books.manav.ch) for it.
+### What is this?
+I read some books. People like some of them. So this is a list of books I read year on year. Check it out [Here](https://books.manav.ch).
 
-## License
-MIT, go wild.
 
-<!-- 320 180 -->
+> MIT.

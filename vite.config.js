@@ -1,6 +1,6 @@
 import { sveltekit } from '@sveltejs/kit/vite';
+import { imagetools } from 'vite-imagetools';
 import dsv from '@rollup/plugin-dsv';
-import { imagetools } from 'vite-imagetools'
 
 import autoProcess from "svelte-preprocess";
 

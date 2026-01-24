@@ -1,0 +1,42 @@
+ pre {
+   border-radius: 5px;
+   padding: 10px;
+   position: relative;
+ }
+
+ pre button.copy {
+   position: absolute;
+   right: 16px;
+   bottom: 16px;
+   height: 18px;
+   width: 18px;
+   padding: 0;
+   display: flex;
+
+   & span {
+     width: 100%;
+     aspect-ratio: 1 / 1;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+   }
+
+   & .ready {
+     background-image: url(/icons/copy.svg);
+   }
+
+   & .success {
+     display: none;
+     background-image: url(/icons/copied.svg);
+   }
+
+   &.copied {
+     & .success {
+       display: block;
+     }
+
+     & .ready {
+       display: none;
+     }
+   }
+ }

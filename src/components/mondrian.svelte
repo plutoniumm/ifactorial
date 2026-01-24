@@ -1,5 +1,5 @@
 <script lang="ts">
-  export let seed = 21;
+  export let seed;
   export let width = 1000;
   export let height = 1000;
 

@@ -1,5 +1,9 @@
 export const load = async ({ params }) => {
-  const file = params.slug;
+  let file = params.slug;
+  let type = file.split('.').pop();
+
+  file = file.replace(`.${type}`, '');
+
   let books = await import(`../../../data/${file}.csv`);
   books = books.default;
 
