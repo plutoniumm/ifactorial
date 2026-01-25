@@ -1,1 +1,1 @@
-{"type":"data","nodes":[null,{"type":"data","data":[{"books":1,"index":8},[2],{"index":3,"isbn":4,"author":5,"name":6,"notes":7},"1","inf","Check back next year","Unknown as yet","","2026"],"uses":{"params":["slug"]}}]}
+{"type":"data","nodes":[null,{"type":"data","data":[{"books":1,"index":8},[2],{"index":3,"isbn":4,"author":5,"name":6,"notes":7},"1","9780545582889","Check back next year","Unknown as yet","","2026"],"uses":{"params":["slug"]}}]}
