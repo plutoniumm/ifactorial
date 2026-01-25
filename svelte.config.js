@@ -5,7 +5,8 @@ export default {
 	preprocess: sveltePreprocess( { sourceMap: false } ),
 	kit: {
 		alias: {
-			"@components": "/src/components"
+			"@components": "/src/components",
+			"@images": "/src/images"
 		},
 		adapter: adapter(),
 		prerender: {

@@ -1,16 +1,16 @@
+import { enhancedImages } from '@sveltejs/enhanced-img';
 import { sveltekit } from '@sveltejs/kit/vite';
-import { imagetools } from 'vite-imagetools';
 import dsv from '@rollup/plugin-dsv';
 import { defineConfig } from 'vite';
 
-import autoProcess from "svelte-preprocess";
+import { sveltePreprocess } from "svelte-preprocess";
 
 const config = defineConfig( {
-	preprocess: [ autoProcess( { sourceMap: false } ) ],
+	preprocess: [ sveltePreprocess( { sourceMap: false } ) ],
 	plugins: [
 		dsv(),
+		enhancedImages(),
 		sveltekit(),
-		imagetools()
 	],
 	server: { port: 3000 },
 	css: {

@@ -1,10 +1,14 @@
 <script>
 	import Mondrian from "@components/Mondrian.svelte";
 	import Card from "@components/card.svelte";
+	import Search from "./search.svelte";
+
 	export let data = [];
 
 	const files = data.files.map((e) => e.replace(".csv", ""));
 </script>
+
+<Search></Search>
 
 <section class="f fw j-ar">
 	{#each files as round}
@@ -15,4 +19,10 @@
 </section>
 
 <style lang="scss">
+	:root {
+		--bg: #ececec;
+		--light: #ffffff;
+		--dark: #c9c9c9;
+		--text: #333;
+	}
 </style>

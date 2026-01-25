@@ -12,6 +12,8 @@ build
 epub2txt
 *.o
 *.epub
+static/search.csv
+static/images
 
 .DS_Store
 

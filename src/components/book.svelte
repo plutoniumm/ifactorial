@@ -1,8 +1,6 @@
-<script>
+<script lang="ts">
   export let book;
   const { author, name, isbn, notes } = book;
-
-  const cover = `https://covers.openlibrary.org/b/isbn/${isbn}`;
 </script>
 
 <div
@@ -10,8 +8,14 @@
   class="book t5 d-b f rx20 p5 m5 p-rel"
   class:t5={notes?.includes("*") || false}
 >
+  <!-- svelte-ignore a11y_consider_explicit_label -->
   <a href={`https://www.amazon.com/s?k=${name} ${author}`}>
-    <img class="rx10" src={`${cover}-M.jpg`} loading="lazy" alt={name} />
+    <enhanced:img
+      class="rx10"
+      src={`/images/${isbn}.jpg?w=300;600;900&format=webp;avif;png&quality=80`}
+      loading="lazy"
+      alt={name}
+    />
   </a>
 
   <a href={`#${isbn}`} class="w-100 f-col j-ar">

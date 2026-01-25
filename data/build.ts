@@ -53,7 +53,7 @@ const files = fs.readdirSync('data')
 
 for (const file of files) {
   const content = fs.readFileSync(`data/${file}`, 'utf-8');
-  const data: Book[] = csvParse(content) as unknown as Book[];
+  const data: Book[] = csvParse(content) as Book[];
 
   const base = file.replace('.csv', '');
 
@@ -65,6 +65,6 @@ for (const file of files) {
   ]);
 
   console.log(`\x1b[34m[${base} done]\x1b[0m`);
-}
+};
 
 console.log('Build complete.');
