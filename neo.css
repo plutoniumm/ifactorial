@@ -1,0 +1,28 @@
+:root {
+  --bg: #ececec;
+  --light: #ffffff;
+  --dark: #c9c9c9;
+  --text: #333;
+}
+
+.raise {
+  transition: all 0.1s ease-in-out;
+  box-shadow:
+    5px 5px 5px var(--dark),
+    -5px -5px 5px var(--light);
+  filter: saturate(1);
+}
+
+.interact:hover {
+  box-shadow: none;
+  filter: saturate(0.8);
+}
+
+.raise:focus,
+.raise:active {
+  box-shadow:
+    0px 0px 0px var(--dark),
+    0px 0px 0px var(--light),
+    inset 5px 5px 10px var(--dark),
+    inset -5px -5px 10px var(--light);
+}
