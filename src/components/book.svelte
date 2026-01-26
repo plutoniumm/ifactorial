@@ -1,12 +1,15 @@
 <script lang="ts">
   export let book;
   const { author, name, isbn, notes } = book;
+
+  let active = false || notes?.includes("*");
 </script>
 
 <div
   id={isbn}
   class="book t5 d-b f rx20 p5 m5 p-rel"
-  class:t5={notes?.includes("*") || false}
+  class:t5={active}
+  class:raise={active}
 >
   <!-- svelte-ignore a11y_consider_explicit_label -->
   <a href={`https://www.amazon.com/s?k=${name} ${author}`}>
@@ -29,10 +32,6 @@
 <style lang="scss">
   .t5 {
     background: #fd04;
-    box-shadow:
-      5px 5px 5px #bbb,
-      -5px -5px 5px #fff;
-
     &::after {
       content: "★";
       position: absolute;
@@ -42,9 +41,11 @@
       color: #db0;
     }
   }
+
   i {
     color: #222;
   }
+
   img {
     width: auto;
     width: 150px;

@@ -19,10 +19,4 @@
 </section>
 
 <style lang="scss">
-	:root {
-		--bg: #ececec;
-		--light: #ffffff;
-		--dark: #c9c9c9;
-		--text: #333;
-	}
 </style>

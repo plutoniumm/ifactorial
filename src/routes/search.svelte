@@ -36,7 +36,7 @@
   }
 </script>
 
-<section class="search rx10 p5 m20 sw-100">
+<section class="search rx10 raise p5 m20 sw-100">
   <input
     type="text"
     class="p10 sw-100 d-b"
@@ -71,15 +71,10 @@
 <style lang="scss">
   .search {
     margin-bottom: 20px;
-
-    box-shadow:
-      5px 5px 10px var(--dark),
-      -5px -5px 10px var(--light);
   }
 
   input[type="text"] {
     color: var(--text);
-    transition: all 0.1s ease-in-out;
   }
 
   .wrap {

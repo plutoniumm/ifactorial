@@ -25,7 +25,7 @@
 <input
     id="top"
     type="text"
-    class="rx10 p10 m20"
+    class="rx10 p10 m20 raise"
     bind:value={search}
     placeholder="Search by Book/Auth..."
 />
@@ -56,18 +56,5 @@
 
     input {
         width: calc(100% - 60px);
-        background: #e8e8e8;
-        box-shadow:
-            5px 5px 17px #c8c8c8,
-            -5px -5px 17px #ffffff;
-
-        transition: all 0.2s;
-    }
-
-    input:focus {
-        background: #e8e8e8;
-        box-shadow:
-            inset 5px 5px 17px #c8c8c8,
-            inset -5px -5px 17px #ffffff;
     }
 </style>
