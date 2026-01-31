@@ -1,35 +1,82 @@
 <script lang="ts">
   export let book;
-  const { author, name, isbn, notes } = book;
+  const { author, name, isbn, notes, index } = book;
 
   let active = false || notes?.includes("*");
+
+  const links = [
+    {
+      name: "amazon",
+      url: `https://www.amazon.com/s?k=${name} ${author}`,
+      icon: "/icons/amzn.png",
+    },
+    {
+      name: "flipkart",
+      url: `https://www.flipkart.com/search?q=${name} ${author}`,
+      icon: "/icons/flip.webp",
+    },
+    {
+      name: "goodreads",
+      url: `https://www.goodreads.com/search?q=${name} ${author}`,
+      icon: "/icons/gr.png",
+    },
+  ];
 </script>
 
 <div
+  data-key={index}
   id={isbn}
   class="book t5 d-b f rx20 p5 m5 p-rel"
   class:t5={active}
   class:raise={active}
 >
   <!-- svelte-ignore a11y_consider_explicit_label -->
-  <a href={`https://www.amazon.com/s?k=${name} ${author}`}>
+  <a href={`#${isbn}`}>
     <enhanced:img
-      class="rx10"
+      class="rx10 hero"
       src={`/images/${isbn}.jpg?w=300;600;900&format=webp;avif;png&quality=80`}
       loading="lazy"
       alt={name}
     />
   </a>
 
-  <a href={`#${isbn}`} class="w-100 f-col j-ar">
+  <div class="w-100 f-col j-ar">
     <div class="fw6" style="font-size: 1.2em;">
+      #{Number(index) + 1}.
       {name}
     </div>
     <i class="d-i"> {author} </i>
-  </a>
+
+    <div class="external d-n">
+      {#each links as link}
+        <a
+          href={link.url}
+          class="d-ib"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img class="rx5" src={link.icon} alt={`${link.name} icon`} />
+        </a>
+      {/each}
+    </div>
+  </div>
 </div>
 
 <style lang="scss">
+  .external {
+    user-select: none;
+
+    a {
+      margin-right: 10px;
+    }
+
+    & img {
+      width: 28px;
+      height: 28px;
+      background: #fff;
+    }
+  }
+
   .t5 {
     background: #fd04;
     &::after {
@@ -46,7 +93,7 @@
     color: #222;
   }
 
-  img {
+  img:not(.external img) {
     width: auto;
     width: 150px;
     aspect-ratio: 3/4 !important;

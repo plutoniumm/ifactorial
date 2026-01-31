@@ -24,6 +24,10 @@
 	<link rel="stylesheet" href="https://manav.ch/atomic.css">
 	<link rel="stylesheet" href="/neo.css">
 
+	<!--  analytics on books.manav.ch -->
+	<script defer src='https://static.cloudflareinsights.com/beacon.min.js'
+		data-cf-beacon='{"token": "7d28c32407944d59b2f67161403d7a0d"}'></script>
+
 	<style>
 		body {
 			--theme: #2af;
@@ -38,19 +42,14 @@
 			background: #e5e5e7;
 		}
 
-		input,
-		textarea,
-		select,
-		button {
-			font-family: inherit;
-			font-size: inherit;
-			line-height: inherit;
-		}
-
 		main {
 			z-index: 1;
 		}
 	</style>
+
+	<script type="module">
+		window.mod = await fetch( '/mod.json' ).then( ( r ) => r.json() );
+	</script>
 
 	%sveltekit.head%
 </head>
