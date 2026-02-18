@@ -21,11 +21,11 @@
     $: external = false;
     $: lent = false;
 
-    const HIDE = " { display: none !important; } ";
+    const FADE = " { opacity: 0.5 !important; }";
     $: {
         if (lender)
             lender.textContent = lent
-                ? given.map((e) => `.book[data-key="${e}"]`).join(",\n") + HIDE
+                ? given.map((e) => `.book[data-key="${e}"]`).join(",\n") + FADE
                 : "";
     }
 
@@ -54,7 +54,7 @@
 
     <div class="f j-ar" style="margin-bottom: 20px;">
         <Toggle bind:value={external} label="Show Links" />
-        <Toggle bind:value={lent} label="Hide Lent" />
+        <Toggle bind:value={lent} label="Fade Lent" />
 
         {#if external}
             <style>
