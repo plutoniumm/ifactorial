@@ -3,6 +3,7 @@
   const { author, name, isbn, notes, index } = book;
 
   let active = false || notes?.includes("*");
+  let dnf = false || notes?.toLowerCase().includes("x");
 
   const links = [
     {
@@ -29,6 +30,7 @@
   class="book t5 d-b f rx20 p5 m5 p-rel"
   class:t5={active}
   class:raise={active}
+  class:dnf
 >
   <!-- svelte-ignore a11y_consider_explicit_label -->
   <a href={`#${isbn}`}>
@@ -42,7 +44,7 @@
 
   <div class="w-100 f-col j-ar">
     <div class="fw6" style="font-size: 1.2em;">
-      #{Number(index) + 1}.
+      #{Number(index)}.
       {name}
     </div>
     <i class="d-i"> {author} </i>
@@ -86,6 +88,28 @@
       right: 10px;
       font-size: 2em;
       color: #db0;
+    }
+  }
+
+  .dnf {
+    background: #8882;
+
+    img {
+      filter: saturate(0.15);
+    }
+
+    .fw6,
+    i {
+      color: #999;
+    }
+
+    &::after {
+      content: "✕";
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      font-size: 2em;
+      color: #999;
     }
   }
 

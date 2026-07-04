@@ -1,9 +1,14 @@
 <script lang="ts">
   export let url: string;
   export let name: string;
+  export let dim = false;
 </script>
 
-<a class="rpm-10 d-b p-rel ptr f-col rx20 raise interact" href={url}>
+<a
+  class="rpm-10 d-b p-rel ptr f-col rx20 raise interact"
+  class:dim
+  href={url}
+>
   <slot></slot>
 
   <div class="p-abs f-col j-ct fw7 year">
@@ -15,6 +20,10 @@
   a {
     width: 300px;
     height: 150px;
+  }
+
+  .dim {
+    filter: saturate(0.15);
   }
 
   .year {

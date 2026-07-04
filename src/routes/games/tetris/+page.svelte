@@ -1,4 +1,5 @@
 <script>
+  import Meta from "@components/meta.svelte";
   import { onMount } from "svelte";
   import { Tetris } from ".";
 
@@ -10,6 +11,8 @@
     return () => game.kill();
   });
 </script>
+
+<Meta description="Classic Tetris block puzzle" name="Tetris" />
 
 <div class="f-col al-ct j-ct">
   <div class="stat" style="margin-bottom: 20px;">

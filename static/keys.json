@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "key": "*",
+      "icon": "★",
+      "color": "#db0",
+      "label": "Star"
+    },
+    {
+      "key": "x",
+      "icon": "✕",
+      "color": "#999",
+      "label": "DNF"
+    },
+    {
+      "key": "+",
+      "icon": "/icons/must-read.svg",
+      "color": "#2af",
+      "label": "Must read"
+    }
+  ]
+}

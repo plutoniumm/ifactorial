@@ -7,7 +7,7 @@
   onMount(() => new GameManager(4, KeyboardInputManager, HTMLActuator));
 </script>
 
-<Meta description="Flow based on numberlink" name="Flow Game" />
+<Meta description="Classic 2048 sliding tile puzzle" name="2048" />
 
 <div class="container">
   <div class="heading">

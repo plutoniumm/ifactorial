@@ -14,7 +14,6 @@ epub2txt
 *.epub
 static/search.csv
 static/images
-static/mod.json
 
 .DS_Store
 

@@ -1,6 +1,6 @@
 index,notes,author,name,isbn
 1,*,Paul Kalanithi,When Breath becomes Air,9780812988406
-2,,Lynne Murphy,The Prodigal Tongue,9781977303356
+2,+,Lynne Murphy,The Prodigal Tongue,9781977303356
 3,,David Graeber,Bullshit Jobs,9781501143335
 4,,James Comey,A Higher Loyalty,9781529003130
 5,,Siddhartha Mukherjee,The Song of the Cell,9781982117375
@@ -12,7 +12,7 @@ index,notes,author,name,isbn
 11,,"Adam Rutherford, Hannah Fry",Rutherford & Fry's Complete Guide to Absolutely Everything,9780393881578
 12,,Steven Pinker,Rationality,9780525561996
 13,,Nathan Lents,Human Errors,9781684413324
-14,,Shoshana Zuboff,The Age of Surveillance Capitalism,9781610395694
+14,x,Shoshana Zuboff,The Age of Surveillance Capitalism,9781610395694
 15,,Nicolas Nissim Taleb,Skin in the Game,9780241300657
 16,,Dalai Lama,Freedom in Exile,9780349104621
 17,,Burton Malkiel,A Random Walk Down Wall Street,9780393320404
