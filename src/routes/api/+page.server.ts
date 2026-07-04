@@ -60,6 +60,26 @@ for (int i = 0; i < books.getLength(); i++) {
       ),
     },
     {
+      name: "RSS",
+      html: await C(
+        `package main
+
+import (
+	"fmt"
+	"github.com/mmcdole/gofeed"
+)
+
+func main() {
+	fp := gofeed.NewParser()
+	feed, _ := fp.ParseURL("https://books.manav.ch/2024.rss")
+	for _, item := range feed.Items {
+		fmt.Println(item.Title)
+	}
+}`,
+        "go",
+      ),
+    },
+    {
       name: "PList",
       html: await C(
         `if let url = URL(string: "https://books.manav.ch/2024.plist"),

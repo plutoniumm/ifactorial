@@ -26,6 +26,26 @@ function toXML (data: Book[]) {
   return xml;
 };
 
+function toRSS (data: Book[], base: string) {
+  let rss = `<?xml version="1.0" encoding="UTF-8"?>
+  <rss version="2.0">
+  <channel>
+  <title>Books ${base}</title>
+  <link>https://books.manav.ch/${base}</link>
+  <description>List of readings in ${base}</description>`.trim();
+
+  data.forEach(book => {
+    rss += '<item>\n';
+    rss += `<title>${book.name}</title>\n`;
+    rss += `<author>${book.author}</author>\n`;
+    rss += `<guid isPermaLink="false">${book.isbn}</guid>\n`;
+    rss += '</item>\n';
+  });
+
+  rss += '</channel>\n</rss>';
+  return rss;
+};
+
 function toPlist (data: Book[]) {
   let plist = `
   <?xml version="1.0" encoding="UTF-8"?>
@@ -61,6 +81,7 @@ for (const file of files) {
     afs.writeFile(`build/${base}.csv`, content, 'utf-8'),
     afs.writeFile(`build/${base}.json`, JSON.stringify(data), 'utf-8'),
     afs.writeFile(`build/${base}.xml`, toXML(data), 'utf-8'),
+    afs.writeFile(`build/${base}.rss`, toRSS(data, base), 'utf-8'),
     afs.writeFile(`build/${base}.plist`, toPlist(data), 'utf-8')
   ]);
 
